@@ -1,0 +1,10201 @@
+abdominal B-PHE
+mass I-PHE
+; O
+accumulation O
+
+-DOCSTART- O
+
+
+Investigated O
+for O
+use O
+/ O
+treatment O
+in O
+infectious B-PHE
+and O
+parasitic B-PHE
+disease I-PHE
+( O
+unspecified O
+) O
+and O
+pediatric O
+indications O
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+protracted O
+diarrhea B-PHE
+due O
+to O
+hypofunction B-PHE
+of I-PHE
+the I-PHE
+spleen I-PHE
+, O
+seminal B-PHE
+emission I-PHE
+, O
+leukorrhagia B-PHE
+, O
+palpitation B-PHE
+, O
+insomnia B-PHE
+. O
+
+-DOCSTART- O
+
+
+it O
+contains O
+polysaccharide O
+and O
+polypeptide O
+mainly O
+. O
+
+1 O
+Inhibiting O
+synthesis B-PHE
+of I-PHE
+DNA I-PHE
+and I-PHE
+RNA I-PHE
+in O
+cancer O
+cells O
+. O
+
+2 O
+Inhibiting O
+sarcoma180 B-PHE
+and O
+Ehrlich-Ascites B-PHE
+tumor I-PHE
+in O
+vitro O
+. O
+
+-DOCSTART- O
+
+
+injury B-PHE
+due O
+to O
+trauma B-PHE
+
+-DOCSTART- O
+
+
+Rikkunshito O
+, O
+an O
+herbal O
+medicine O
+, O
+suppresses O
+cisplatin-induced B-PHE
+anorexia I-PHE
+in O
+rats O
+via O
+5-HT2 O
+receptor O
+antagonism O
+. O
+
+-DOCSTART- O
+
+
+Heat B-PHE
+sensation I-PHE
+in O
+the O
+chest O
+, O
+palms O
+and O
+soles O
+
+-DOCSTART- O
+
+
+To O
+nourish O
+blood B-PHE
+and O
+consolidate O
+the O
+yin O
+; O
+
+To O
+pacify O
+the O
+liver B-PHE
+and O
+stop O
+pain B-PHE
+; O
+
+To O
+soothe O
+liver O
+yang O
+
+-DOCSTART- O
+
+
+Penbutolol O
+is O
+indicated O
+in O
+the O
+treatment O
+of O
+mild O
+to O
+moderate B-PHE
+arterial I-PHE
+hypertension I-PHE
+. O
+
+It O
+may O
+be O
+used O
+alone O
+or O
+in O
+combination O
+with O
+other O
+antihypertensive O
+agents O
+, O
+especially O
+thiazide-type O
+diuretics O
+. O
+
+Penbutolol O
+is O
+contraindicated O
+in O
+patients O
+with O
+cardiogenic B-PHE
+shock I-PHE
+, O
+sinus B-PHE
+bradycardia I-PHE
+, O
+second B-PHE
+and I-PHE
+third I-PHE
+degree I-PHE
+atrioventricular I-PHE
+conduction I-PHE
+block I-PHE
+, O
+bronchial B-PHE
+asthma I-PHE
+, O
+and O
+those O
+with O
+known O
+hypersensitivity B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+quicken O
+blood B-PHE
+and O
+nourish O
+heart B-PHE
+, O
+constrain O
+lung B-PHE
+and O
+astringe B-PHE
+intestines O
+. O
+
+-DOCSTART- O
+
+
+Similar O
+to O
+zidovudine O
+, O
+efavirenz O
+inhibits O
+the O
+activity B-PHE
+of I-PHE
+viral I-PHE
+RNA-directed I-PHE
+DNA I-PHE
+polymerase I-PHE
+( O
+i.e O
+. O
+, O
+reverse B-PHE
+transcriptase I-PHE
+) O
+. O
+
+Antiviral O
+activity O
+of O
+efavirenz O
+is O
+dependent O
+on O
+intracellular O
+conversion O
+to O
+the O
+active O
+triphosphorylated O
+form O
+. O
+
+The O
+rate O
+of O
+efavirenz O
+phosphorylation O
+varies O
+, O
+depending O
+on O
+cell O
+type O
+. O
+
+It O
+is O
+believed O
+that O
+inhibition O
+of O
+reverse B-PHE
+transcriptase I-PHE
+interferes O
+with O
+the O
+generation B-PHE
+of I-PHE
+DNA I-PHE
+copies I-PHE
+of I-PHE
+viral I-PHE
+RNA I-PHE
+, O
+which O
+, O
+in O
+turn O
+, O
+are O
+necessary O
+for O
+synthesis O
+of O
+new O
+virions O
+. O
+
+Intracellular O
+enzymes O
+subsequently O
+eliminate O
+the O
+HIV B-PHE
+particle I-PHE
+that O
+previously O
+had O
+been O
+uncoated O
+, O
+and O
+left O
+unprotected O
+, O
+during O
+entry O
+into O
+the O
+host O
+cell O
+. O
+
+Thus O
+, O
+reverse O
+transcriptase O
+inhibitors O
+are O
+virustatic O
+and O
+do O
+not O
+eliminate O
+HIV B-PHE
+from O
+the O
+body O
+. O
+
+Even O
+though O
+human O
+DNA B-PHE
+polymerase I-PHE
+is O
+less O
+susceptible O
+to O
+the O
+pharmacologic O
+effects O
+of O
+triphosphorylated O
+efavirenz O
+, O
+this O
+action O
+may O
+nevertheless O
+account O
+for O
+some O
+of O
+the O
+drug's O
+toxicity O
+. O
+
+-DOCSTART- O
+
+
+Dexamethasone O
+is O
+a O
+glucocorticoid B-PHE
+agonist I-PHE
+. O
+
+-DOCSTART- O
+
+
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+Physical B-PHE
+performance I-PHE
+and O
+fitness O
+, O
+absorption B-PHE
+, O
+Strength O
+and O
+power O
+, O
+Liver B-PHE
+health I-PHE
+, O
+Inflammation B-PHE
+, O
+Liver B-PHE
+, O
+Others O
+, O
+motility B-PHE
+
+-DOCSTART- O
+
+
+However O
+, O
+like O
+other O
+antihypertensives O
+, O
+they O
+all O
+have O
+to O
+be O
+self-administered O
+daily O
+and O
+don't O
+provide O
+a O
+good O
+solution O
+for O
+improving O
+patient O
+compliance O
+. O
+
+-DOCSTART- O
+
+
+( O
+1 O
+) O
+/ O
+morbid B-PHE
+leukorrhea I-PHE
+; O
+( O
+2 O
+) O
+gynecological B-PHE
+diseases I-PHE
+( O
+in O
+a O
+broad O
+sense O
+) O
+
+-DOCSTART- O
+
+
+To O
+cause O
+catharsis O
+and O
+purge O
+away O
+heat B-PHE
+, O
+to O
+reduce O
+heat B-PHE
+in O
+blood B-PHE
+and O
+counteract O
+toxicity B-PHE
+, O
+and O
+to O
+eliminate O
+blood B-PHE
+stasis I-PHE
+and O
+stimulate O
+menstrual B-PHE
+discharge I-PHE
+. O
+
+-DOCSTART- O
+
+
+blood B-PHE
+vomiting I-PHE
+due O
+to O
+weakness B-PHE
+and O
+fatigue B-PHE
+
+-DOCSTART- O
+
+
+To O
+clear O
+away O
+heat B-PHE
+and O
+toxic B-PHE
+materials I-PHE
+, O
+remove O
+dampness B-PHE
+and O
+destroy O
+trichomonad B-PHE
+and O
+fungus B-PHE
+, O
+remove O
+the O
+necrotic B-PHE
+tissue I-PHE
+and O
+promote O
+granulation B-PHE
+, O
+and O
+arrest O
+pain B-PHE
+by O
+removing O
+blood B-PHE
+stasis I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+reduce O
+masses B-PHE
+by O
+dissipating O
+blood B-PHE
+stasis I-PHE
+, O
+and O
+to O
+relieve O
+pain B-PHE
+by O
+removing O
+stagnancy B-PHE
+of O
+food O
+. O
+
+-DOCSTART- O
+
+
+Pneumonia B-PHE
+, I-PHE
+Pneumocystis I-PHE
+Carinii I-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+attack O
+of O
+damp-heat B-PHE
+manifested O
+by O
+stuffiness B-PHE
+and O
+fullness O
+sensation O
+in O
+the O
+abdomen B-PHE
+, O
+or O
+causing O
+acute B-PHE
+dysentery I-PHE
+of O
+jaundice B-PHE
+, O
+high O
+fever B-PHE
+accompained O
+by O
+impairment B-PHE
+of O
+conciousness B-PHE
+, O
+fidgetness O
+and O
+insomnia B-PHE
+due O
+to O
+exuberant O
+fire O
+, O
+spitting B-PHE
+of I-PHE
+blood I-PHE
+and O
+epistaxis B-PHE
+caused O
+by O
+heat B-PHE
+in O
+the O
+blood O
+, O
+inflammation B-PHE
+of O
+the O
+eye O
+, O
+acid B-PHE
+regurgitation I-PHE
+, O
+toothache B-PHE
+, O
+diabetes B-PHE
+, O
+carbuncles B-PHE
+and O
+sores B-PHE
+, O
+external O
+use O
+for O
+eczema B-PHE
+and O
+other O
+skin B-PHE
+diseases I-PHE
+with O
+exudation O
+, O
+purulent B-PHE
+discharge I-PHE
+from O
+the O
+ear O
+. O
+
+Rhizoma O
+Coptidis O
+( O
+processed O
+with O
+wine O
+) O
+Inflammation B-PHE
+of O
+the O
+eye O
+, O
+ulcers B-PHE
+in O
+the O
+mouth O
+. O
+
+Rhizoma O
+Coptidis O
+( O
+processed O
+with O
+ginger O
+) O
+Stuffiness O
+and O
+fullness O
+sensation O
+in O
+the O
+abdomen B-PHE
+with O
+nausea B-PHE
+and O
+vomiting B-PHE
+caused O
+by O
+damp-heat B-PHE
+in O
+combination O
+with O
+cold B-PHE
+. O
+
+-DOCSTART- O
+
+
+vigilance O
+, O
+Physical B-PHE
+performance I-PHE
+and O
+fitness O
+, O
+Endurance O
+, O
+activation O
+, O
+attention O
+, O
+energy B-PHE
+supply I-PHE
+and O
+recovery O
+, O
+Metabolism B-PHE
+, O
+sleep B-PHE
+, O
+Memory B-PHE
+, O
+Arousal B-PHE
+, O
+Others O
+, O
+Mental B-PHE
+state I-PHE
+and O
+performance O
+
+-DOCSTART- O
+
+
+To O
+strengthen O
+spleen B-PHE
+and O
+benefit O
+dampness B-PHE
+; O
+
+To O
+kill O
+worms B-PHE
+and O
+stop O
+diarrhea B-PHE
+
+-DOCSTART- O
+
+
+five O
+kinds O
+of O
+fluid-retention B-PHE
+syndromes I-PHE
+
+-DOCSTART- O
+
+
+Wind-damp B-PHE
+impediment O
+pain B-PHE
+, O
+toothache B-PHE
+, O
+knee B-PHE
+joint I-PHE
+pain I-PHE
+, O
+scab B-PHE
+and O
+lichen B-PHE
+, O
+eczema B-PHE
+, O
+trichomoniasis B-PHE
+, O
+scalds B-PHE
+, O
+wound B-PHE
+, O
+enduring B-PHE
+sores I-PHE
+, O
+bilharziosis B-PHE
+, O
+cough B-PHE
+and O
+asthma B-PHE
+. O
+
+-DOCSTART- O
+
+
+settle O
+fright O
+
+-DOCSTART- O
+
+
+[Case O
+of O
+pneumonitis B-PHE
+caused O
+by O
+Yokukansan] O
+. O
+
+-DOCSTART- O
+
+
+Reducing O
+signs O
+and O
+symptoms O
+of O
+Crohn's B-PHE
+disease I-PHE
+and O
+treatment O
+of O
+moderately O
+to O
+severely O
+active O
+rheumatoid B-PHE
+arthritis I-PHE
+( O
+RA B-PHE
+) O
+. O
+
+-DOCSTART- O
+
+
+Treament O
+of O
+unprocessed O
+Fructus O
+Hordei O
+Germinatus O
+: O
+
+Anorexia B-PHE
+due O
+to O
+diminished B-PHE
+function I-PHE
+of I-PHE
+the I-PHE
+spleen I-PHE
+, O
+galactostasis B-PHE
+. O
+
+Fructus O
+Hordei O
+Germinatus O
+( O
+stir-fried O
+) O
+: O
+
+Indigestion B-PHE
+, O
+weaning O
+a O
+baby O
+. O
+
+Fructus O
+Hordei O
+Germinatus O
+( O
+charred O
+) O
+: O
+
+Retention B-PHE
+of I-PHE
+undigested I-PHE
+food I-PHE
+with O
+epigastric B-PHE
+distension I-PHE
+and O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+soften O
+hard B-PHE
+mass I-PHE
+
+-DOCSTART- O
+
+
+strengthen O
+the O
+teeth B-PHE
+
+-DOCSTART- O
+
+
+Like O
+other O
+macrolides O
+, O
+it O
+then O
+penetrates O
+bacteria O
+cell O
+wall O
+and O
+reversibly O
+binds O
+to O
+domain O
+V O
+of O
+the O
+23S O
+ribosomal O
+RNA O
+of O
+the O
+50S O
+subunit O
+of O
+the O
+bacterial O
+ribosome O
+, O
+blocking O
+translocation B-PHE
+of I-PHE
+aminoacyl I-PHE
+transfer-RNA I-PHE
+and I-PHE
+polypeptide I-PHE
+synthesis I-PHE
+. O
+
+-DOCSTART- O
+
+
+Adult B-PHE
+Acute I-PHE
+Myeloid I-PHE
+Leukemia I-PHE
+With O
+Minimal O
+Differentiation O
+
+-DOCSTART- O
+
+
+To O
+promote O
+blood B-PHE
+circulation I-PHE
+, O
+remove O
+blood B-PHE
+stasis I-PHE
+and O
+improve O
+microcirculation B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+invigo O
+rate O
+the O
+function B-PHE
+of I-PHE
+the I-PHE
+spleen I-PHE
+, O
+to O
+regulate O
+the O
+function B-PHE
+of I-PHE
+the I-PHE
+stomach I-PHE
+, O
+and O
+to O
+promote O
+the O
+flow B-PHE
+of I-PHE
+milk I-PHE
+. O
+
+-DOCSTART- O
+
+
+nourish O
+bone B-PHE
+marrow I-PHE
+
+-DOCSTART- O
+
+
+Swelling B-PHE
+pain I-PHE
+in O
+joints O
+, O
+numbness B-PHE
+in O
+limbs O
+, O
+knocks B-PHE
+and O
+falls B-PHE
+, O
+cough B-PHE
+and O
+asthma B-PHE
+, O
+heat B-PHE
+strangury I-PHE
+, O
+poisonous B-PHE
+snake I-PHE
+bite I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+clear O
+damp B-PHE
+heat I-PHE
+, O
+resolve O
+sore O
+toxin B-PHE
+, O
+disperse O
+swelling B-PHE
+and O
+relieve O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+Dermatological B-PHE
+systems I-PHE
+health I-PHE
+, O
+General O
+skin B-PHE
+health I-PHE
+, O
+Others O
+
+-DOCSTART- O
+
+
+Sabarubicin O
+blocking O
+of O
+DNA B-PHE
+replication I-PHE
+reduced O
+the O
+counteractive B-PHE
+activity I-PHE
+of I-PHE
+mutagenic I-PHE
+translesional I-PHE
+bypass I-PHE
+replication I-PHE
+across O
+cisplatin-DNA O
+adducts O
+. O
+
+-DOCSTART- O
+
+
+dryness B-PHE
+of O
+mouth O
+
+-DOCSTART- O
+
+
+Endurance O
+, O
+energy B-PHE
+supply I-PHE
+and O
+recovery B-PHE
+, O
+Physical B-PHE
+performance I-PHE
+and O
+fitness B-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+aching B-PHE
+and O
+weakness B-PHE
+of O
+the O
+loins O
+and O
+knees O
+, O
+asthma B-PHE
+and O
+cough B-PHE
+of O
+deficiency-cold B-PHE
+type O
+, O
+seminal O
+emission O
+, O
+impotence B-PHE
+. O
+
+-DOCSTART- O
+
+
+It O
+causes O
+blood B-PHE
+vessels I-PHE
+to I-PHE
+narrow I-PHE
+, O
+resulting O
+in O
+an O
+increase O
+in O
+blood B-PHE
+pressure I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+kill O
+worms B-PHE
+. O
+
+-DOCSTART- O
+
+
+sores B-PHE
+due O
+to O
+swelling B-PHE
+of I-PHE
+carbuncle I-PHE
+. O
+
+-DOCSTART- O
+
+
+Palonosetron O
+is O
+a O
+selective O
+serotonin O
+5-HT O
+3 O
+receptor O
+antagonist O
+. O
+
+The O
+antiemetic O
+activity O
+of O
+the O
+drug O
+is O
+brought O
+about O
+through O
+the O
+inhibition O
+of O
+5-HT O
+3 O
+receptors O
+present O
+both O
+centrally O
+( O
+medullary O
+chemoreceptor O
+zone O
+) O
+and O
+peripherally O
+( O
+GI O
+tract O
+) O
+. O
+
+This O
+inhibition O
+of O
+5-HT O
+3 O
+receptors O
+in O
+turn O
+inhibits O
+the O
+visceral B-PHE
+afferent I-PHE
+stimulation I-PHE
+of O
+the O
+vomiting O
+center O
+, O
+likely O
+indirectly O
+at O
+the O
+level O
+of O
+the O
+area B-PHE
+postrema I-PHE
+, O
+as O
+well O
+as O
+through O
+direct O
+inhibition O
+of O
+serotonin B-PHE
+activity I-PHE
+within O
+the O
+area B-PHE
+postrema I-PHE
+and O
+the O
+chemoreceptor B-PHE
+trigger I-PHE
+zone I-PHE
+. O
+
+Alternative O
+mechanisms O
+appear O
+to O
+be O
+primarily O
+responsible O
+for O
+delayed O
+nausea B-PHE
+and O
+vomiting B-PHE
+induced O
+by O
+emetogenic O
+chemotherapy O
+, O
+since O
+similar O
+temporal O
+relationships O
+between O
+between O
+serotonin B-PHE
+and O
+emesis B-PHE
+beyond O
+the O
+first O
+day O
+after O
+a O
+dose O
+have O
+not O
+been O
+established O
+, O
+and O
+5-HT O
+3 O
+receptor O
+antagonists O
+generally O
+have O
+not O
+appeared O
+to O
+be O
+effective O
+alone O
+in O
+preventing O
+or O
+ameliorating O
+delayed O
+effects O
+. O
+
+It O
+has O
+been O
+hypothesized O
+that O
+palonosetron's O
+potency O
+and O
+long O
+plasma O
+half-life O
+may O
+contribute O
+to O
+its O
+observed O
+efficacy O
+in O
+preventing O
+delayed O
+nausea B-PHE
+and O
+vomiting B-PHE
+caused O
+by O
+moderately O
+emetogenic O
+cancer O
+chemotherapy O
+. O
+
+-DOCSTART- O
+
+
+HIV-1 B-PHE
+Infections I-PHE
+
+-DOCSTART- O
+
+
+dyspepsia B-PHE
+; O
+indigestion B-PHE
+
+-DOCSTART- O
+
+
+blood B-PHE
+vomiting I-PHE
+
+-DOCSTART- O
+
+
+refers O
+to O
+the O
+pain B-PHE
+and O
+damage B-PHE
+due O
+to O
+the O
+physical O
+injury B-PHE
+
+-DOCSTART- O
+
+
+Applicable O
+to O
+cases O
+of O
+watery B-PHE
+diarrhea I-PHE
+with O
+increased O
+gurgling O
+sounds O
+, O
+abdominal B-PHE
+pain I-PHE
+, O
+nausea B-PHE
+, O
+vomiting B-PHE
+, O
+vexation B-PHE
+, O
+thirst B-PHE
+, O
+yellow B-PHE
+and I-PHE
+greasy I-PHE
+fur I-PHE
+, O
+soft O
+and O
+floating O
+, O
+smooth B-PHE
+pulse I-PHE
+, O
+which O
+are O
+attributive O
+to O
+dampness-heat B-PHE
+of I-PHE
+intestines I-PHE
+and I-PHE
+stomach I-PHE
+( O
+predominantly O
+da O
+
+-DOCSTART- O
+
+
+Emtricitabine O
+is O
+an O
+analogue O
+of O
+cytidine O
+. O
+
+The O
+drug O
+works O
+by O
+inhibiting O
+reverse B-PHE
+transcriptase I-PHE
+, O
+the O
+enzyme O
+that O
+copies O
+HIV B-PHE
+RNA I-PHE
+into O
+new O
+viral O
+DNA O
+. O
+
+By O
+interfering O
+with O
+this O
+process O
+, O
+which O
+is O
+central O
+to O
+the O
+replication O
+of O
+HIV B-PHE
+, O
+emtricitabine O
+can O
+help O
+to O
+lower O
+the O
+amount O
+of O
+HIV B-PHE
+, O
+or O
+viral B-PHE
+load I-PHE
+. O
+
+Efavirenz O
+falls O
+in O
+the O
+NNRTI O
+class O
+of O
+antiretrovirals O
+. O
+
+Both O
+nucleoside O
+and O
+non-nucleoside O
+RTIs O
+inhibit O
+the O
+same O
+target O
+, O
+the O
+reverse B-PHE
+transcriptase I-PHE
+enzyme I-PHE
+, O
+an O
+essential O
+viral B-PHE
+enzyme I-PHE
+which O
+transcribes O
+viral O
+RNA O
+into O
+DNA O
+. O
+
+-DOCSTART- O
+
+
+To O
+revitalize O
+blood B-PHE
+and O
+desolve O
+stagnation B-PHE
+
+-DOCSTART- O
+
+
+Festering O
+sore B-PHE
+or O
+abscess B-PHE
+with O
+inadequate O
+drainage O
+or O
+initial O
+granulation O
+. O
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+symptom O
+with O
+powerlessness B-PHE
+in O
+a O
+waist O
+and O
+knee O
+. O
+
+-DOCSTART- O
+
+
+This O
+is O
+pectoral B-PHE
+pain I-PHE
+with O
+stuffiness B-PHE
+and O
+pain B-PHE
+in O
+the O
+heart O
+. O
+
+-DOCSTART- O
+
+
+Glaucoma B-PHE
+, O
+Open-angle O
+
+-DOCSTART- O
+
+
+Chronic B-PHE
+Hepatitis I-PHE
+B I-PHE
+
+-DOCSTART- O
+
+
+Urinary B-PHE
+Bladder I-PHE
+Diseases I-PHE
+
+-DOCSTART- O
+
+
+Once O
+bound O
+, O
+the O
+receptor O
+/ O
+ligand O
+complex O
+localizes O
+to O
+the O
+nucleus O
+and O
+acts O
+as O
+a O
+DNA B-PHE
+binding I-PHE
+transcription I-PHE
+factor I-PHE
+, O
+regulating O
+gene B-PHE
+expression I-PHE
+. O
+
+-DOCSTART- O
+
+
+unblock O
+the O
+network B-PHE
+vessels I-PHE
+
+-DOCSTART- O
+
+
+a O
+diseade O
+of O
+chronic B-PHE
+dysentery I-PHE
+. O
+
+Caused O
+by O
+the O
+central O
+Gi O
+falling O
+down O
+due O
+to O
+deficiency B-PHE
+of I-PHE
+the I-PHE
+spleen I-PHE
+and I-PHE
+stomach I-PHE
+from O
+chronic B-PHE
+dysentery I-PHE
+. O
+
+A O
+symptom O
+of O
+feces B-PHE
+with I-PHE
+pus I-PHE
+and I-PHE
+blood I-PHE
+and O
+slight O
+stomach B-PHE
+pain I-PHE
+
+-DOCSTART- O
+
+
+redness B-PHE
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+symptom O
+with O
+a O
+cold B-PHE
+, O
+weak B-PHE
+waist I-PHE
+and I-PHE
+knee I-PHE
+. O
+
+-DOCSTART- O
+
+
+Circulating O
+Tumor B-PHE
+Cells I-PHE
+in O
+Pancreatic O
+Cancer O
+Surgery O
+
+-DOCSTART- O
+
+
+Exerting O
+prolong O
+hypotensive B-PHE
+effect I-PHE
+in O
+anesthetized O
+animals. O
+. O
+
+-DOCSTART- O
+
+
+1 O
+Eliminating O
+heat B-PHE
+and O
+toxic B-PHE
+materials I-PHE
+( O
+carbuncle B-PHE
+, O
+erysipelas B-PHE
+, O
+burn B-PHE
+, O
+ulcer B-PHE
+, O
+sorethroat B-PHE
+) O
+, O
+used O
+as O
+decoction O
+, O
+oral O
+or O
+external O
+use O
+, O
+or O
+gargle O
+, O
+also O
+for O
+the O
+prevention O
+and O
+treatment O
+of O
+epidemic B-PHE
+febrile I-PHE
+diseases I-PHE
+, O
+such O
+as O
+influenza B-PHE
+, O
+epidemic B-PHE
+meningitis I-PHE
+, O
+encephalitis B-PHE
+, O
+etc O
+. O
+
+2 O
+. O
+Clearing O
+dampness-heat B-PHE
+( O
+diarrhea B-PHE
+, O
+dysentery B-PHE
+and O
+leukorrhagia B-PHE
+of O
+dampness-heat B-PHE
+type O
+) O
+. O
+
+Recently O
+being O
+used O
+for O
+acute O
+and O
+chronic B-PHE
+pyelitis I-PHE
+. O
+
+3 O
+To O
+kill O
+parasite B-PHE
+( O
+ancylostomoasos B-PHE
+and O
+filariasis B-PHE
+) O
+. O
+
+-DOCSTART- O
+
+
+To O
+eliminate O
+mass B-PHE
+, O
+reduce O
+fullness B-PHE
+, O
+strengthen O
+spleen B-PHE
+and O
+regulate O
+stomach B-PHE
+. O
+
+-DOCSTART- O
+
+
+Labetuzumab O
+is O
+a O
+humanized O
+monoclonal O
+antibody O
+used O
+to O
+treat O
+cancer B-PHE
+. O
+
+Retrieved O
+from O
+http://en.wikipedia.org/wiki/Labetuzumab O
+
+-DOCSTART- O
+
+
+Tourette B-PHE
+Syndrome I-PHE
+
+-DOCSTART- O
+
+
+prolonged O
+chronic B-PHE
+headache I-PHE
+
+dead B-PHE
+coldness I-PHE
+of O
+the O
+extremities O
+
+morbid B-PHE
+condition I-PHE
+of O
+intense B-PHE
+pain I-PHE
+in O
+the O
+chest O
+and O
+abdomen O
+, O
+sudden O
+coldness B-PHE
+of O
+the O
+two O
+feet O
+, O
+restlessness B-PHE
+with O
+disinclination B-PHE
+ti O
+eat O
+and O
+unsmooth O
+pulse B-PHE
+
+-DOCSTART- O
+
+
+developmemt O
+of O
+manic B-PHE
+syndrome I-PHE
+
+-DOCSTART- O
+
+
+To O
+dispel O
+wind B-PHE
+and O
+relieve O
+pain B-PHE
+, O
+quicken O
+blood B-PHE
+and O
+disperse O
+swelling B-PHE
+. O
+
+-DOCSTART- O
+
+
+constrain O
+sweat B-PHE
+and O
+the O
+intestine B-PHE
+
+-DOCSTART- O
+
+
+( O
+1 O
+) O
+pea-like O
+skin B-PHE
+sores I-PHE
+; O
+pox B-PHE
+pea-shaped O
+eruption B-PHE
+filled O
+with O
+setrotic O
+fluid O
+such O
+as O
+smallpox B-PHE
+and O
+chickenpox B-PHE
+. O
+
+( O
+2 O
+) O
+blister B-PHE
+
+-DOCSTART- O
+
+
+Cyclophosphamide's O
+active O
+metabolites O
+aldophosphamide O
+and O
+phosphoramide O
+mustard O
+bind O
+to O
+DNA B-PHE
+, O
+thereby O
+inhibiting O
+DNA B-PHE
+replication I-PHE
+and O
+initiating O
+cell B-PHE
+death I-PHE
+. O
+
+-DOCSTART- O
+
+
+distribution O
+) O
+, O
+Endurance B-PHE
+, O
+energy O
+supply O
+and O
+recovery B-PHE
+, O
+Strength B-PHE
+and O
+power B-PHE
+, O
+Body B-PHE
+weight I-PHE
+
+-DOCSTART- O
+
+
+a O
+disease O
+with O
+pain B-PHE
+in I-PHE
+the I-PHE
+joints I-PHE
+
+-DOCSTART- O
+
+
+BACKGROUND O
+: O
+Crohn's B-PHE
+disease I-PHE
+( O
+CD B-PHE
+) O
+is O
+a O
+chronic B-PHE
+inflammatory I-PHE
+disease I-PHE
+with O
+increasing O
+incidence O
+in O
+children O
+. O
+
+Current O
+medications O
+have O
+potentially O
+serious O
+side O
+effects O
+, O
+hence O
+increasing O
+interest O
+in O
+alternative O
+therapies O
+. O
+
+We O
+previously O
+developed O
+an O
+herbal O
+formula O
+, O
+FAHF-2 O
+, O
+based O
+on O
+a O
+classical O
+traditional O
+Chinese O
+herbal O
+formula O
+Wu O
+Mei O
+Wan O
+that O
+has O
+long O
+been O
+used O
+in O
+China O
+to O
+treat O
+colitis B-PHE
+. O
+
+We O
+investigated O
+FAHF-2's O
+potential O
+anti-inflammatory B-PHE
+effects O
+. O
+
+METHODS O
+: O
+FAHF-2 O
+efficacy O
+was O
+tested O
+in O
+vivo O
+in O
+the O
+CD45RbRAG1 O
+transfer O
+colitis O
+model O
+. O
+
+Weight B-PHE
+loss I-PHE
+, O
+colonic O
+histology O
+, O
+and O
+cytokine B-PHE
+production I-PHE
+from O
+mesenteric B-PHE
+lymph I-PHE
+nodes I-PHE
+were O
+assessed O
+. O
+
+Human O
+peripheral B-PHE
+blood I-PHE
+mononuclear I-PHE
+cells I-PHE
+( O
+PBMCs B-PHE
+) O
+and O
+colonic O
+biopsies O
+were O
+obtained O
+from O
+children O
+newly O
+diagnosed O
+with O
+CD O
+and O
+controls O
+and O
+cultured O
+with O
+or O
+without O
+FAHF-2 O
+. O
+
+Cytokine B-PHE
+levels I-PHE
+were O
+measured O
+by O
+multiplex O
+immunoassay O
+. O
+
+The O
+effect O
+of O
+FAHF-2 O
+on O
+TNF-慣 B-PHE
+- O
+producing O
+cells B-PHE
+was O
+determined O
+by O
+flow O
+cytometry O
+. O
+
+NF-kB B-PHE
+signaling I-PHE
+was O
+investigated O
+in O
+human O
+lamina B-PHE
+propria I-PHE
+mononuclear I-PHE
+cells I-PHE
+upon O
+FAHF-2 O
+treatment O
+by O
+In O
+- O
+Cell O
+Western O
+. O
+
+RESULTS O
+: O
+FAHF-2 O
+- O
+treated O
+mice O
+had O
+decreased B-PHE
+weight I-PHE
+loss I-PHE
+, O
+improved O
+histology O
+, O
+and O
+reduced O
+TNF-慣 B-PHE
+, O
+IL-17 B-PHE
+, O
+IL-6 B-PHE
+, O
+and O
+IFN-y B-PHE
+production O
+. O
+
+In O
+vitro O
+treated O
+PBMCs B-PHE
+produced O
+less O
+TNF-慣 B-PHE
+, O
+IFN-y B-PHE
+, O
+and O
+IL-12 B-PHE
+. O
+
+FAHF-2 O
+reduced O
+the O
+TNF-a B-PHE
+- O
+producing O
+monocytes B-PHE
+and O
+T B-PHE
+cells I-PHE
+. O
+
+-DOCSTART- O
+
+
+relieve O
+toxicity B-PHE
+and O
+alleviate O
+edema B-PHE
+
+-DOCSTART- O
+
+
+Recurrent O
+Childhood B-PHE
+Acute I-PHE
+Lymphoblastic I-PHE
+Leukemia I-PHE
+
+-DOCSTART- O
+
+
+relieve O
+heat B-PHE
+and O
+dissipate O
+stasis B-PHE
+
+-DOCSTART- O
+
+
+Nonalcoholic B-PHE
+Steatohepatitis I-PHE
+
+-DOCSTART- O
+
+
+Adult B-PHE
+Acute I-PHE
+Myeloid I-PHE
+Leukemia I-PHE
+Without O
+Maturation O
+
+-DOCSTART- O
+
+
+1 O
+Applicable O
+to O
+cases O
+of O
+hypovolumic B-PHE
+and I-PHE
+cardiogenic I-PHE
+shock I-PHE
+which O
+are O
+attributed O
+to O
+exhaustion B-PHE
+of O
+primordial O
+energy O
+and O
+yang-energy O
+. O
+
+2 O
+Also O
+applicable O
+to O
+cases O
+of O
+hemorrhagic B-PHE
+shock I-PHE
+attributed O
+to O
+yang O
+depletion O
+. O
+
+-DOCSTART- O
+
+
+Simvastatin O
+competitively O
+inhibits O
+HMG-CoA B-PHE
+reductase I-PHE
+, O
+lowers O
+plasma O
+cholesterol O
+and O
+lipoprotein B-PHE
+levels O
+, O
+and O
+modulates O
+immune B-PHE
+responses I-PHE
+by O
+suppressing O
+MHC O
+II O
+on O
+interferon O
+gamma-stimulated O
+, O
+antigen-presenting O
+cells O
+such O
+as O
+human O
+vascular O
+endothelial O
+cells O
+. O
+
+Ezetimibe O
+localizes O
+and O
+appears O
+to O
+act O
+at O
+the O
+brush O
+border O
+of O
+the O
+small O
+intestine O
+and O
+inhibits O
+the O
+absorption O
+of O
+cholesterol O
+. O
+
+Atorvastatin O
+competitively O
+inhibits O
+hepatic B-PHE
+hydroxymethyl-glutaryl I-PHE
+coenzyme I-PHE
+A I-PHE
+( O
+HMG-CoA B-PHE
+) O
+reductase O
+, O
+the O
+enzyme O
+which O
+catalyzes O
+the O
+conversion O
+of O
+HMG-CoA O
+to O
+mevalonate O
+, O
+a O
+key O
+step O
+in O
+cholesterol B-PHE
+synthesis I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+dispel O
+cold B-PHE
+, O
+eliminate O
+damp B-PHE
+and O
+phlegm B-PHE
+, O
+and O
+arrest O
+emesis B-PHE
+or O
+nausea B-PHE
+. O
+
+-DOCSTART- O
+
+
+Stagnation O
+of O
+qi O
+in O
+the O
+liver O
+and O
+the O
+stomach O
+marked O
+by O
+distending O
+pain I-PHE
+in O
+the O
+epigastrium O
+, O
+feeling O
+of O
+stuffiness B-PHE
+and O
+fullness B-PHE
+in O
+the O
+chest O
+, O
+anorexia B-PHE
+, O
+belching B-PHE
+and O
+acid B-PHE
+regurgitation I-PHE
+. O
+
+-DOCSTART- O
+
+
+dysentery B-PHE
+
+-DOCSTART- O
+
+
+Adult B-PHE
+Acute I-PHE
+Myelomonocytic I-PHE
+Leukemia I-PHE
+
+-DOCSTART- O
+
+
+Kampo O
+medicines O
+are O
+currently O
+manufactured O
+under O
+strict O
+quality O
+controls O
+. O
+
+The O
+Ministry O
+of O
+Health O
+, O
+Labour O
+and O
+Welfare O
+of O
+Japan O
+has O
+approved O
+148 O
+Kampo O
+formulas O
+. O
+
+There O
+is O
+increasing O
+evidence O
+for O
+the O
+efficacy O
+of O
+Kampo O
+medicines O
+, O
+and O
+some O
+are O
+used O
+clinically O
+for O
+palliative O
+care O
+in O
+Japan O
+. O
+
+The O
+specific O
+aim O
+of O
+this O
+review O
+is O
+to O
+evaluate O
+the O
+clinical O
+use O
+of O
+Kampo O
+medicines O
+in O
+palliative O
+care O
+in O
+the O
+treatment O
+of O
+cancer O
+. O
+
+The O
+conclusions O
+are O
+as O
+follows O
+: O
+Juzentaihoto O
+inhibits O
+the O
+progression O
+of O
+liver B-PHE
+tumors I-PHE
+in O
+a O
+dose-dependent O
+manner O
+and O
+contributes O
+to O
+long-term O
+survival O
+. O
+
+Hochuekkito O
+has O
+clinical O
+effects O
+on O
+cachexia B-PHE
+for O
+genitourinary B-PHE
+cancer I-PHE
+and O
+improves O
+the O
+QOL O
+and O
+immunological B-PHE
+status I-PHE
+of O
+weak O
+patients O
+, O
+such O
+as O
+postoperative O
+patients O
+. O
+
+Daikenchuto O
+increases O
+intestinal B-PHE
+motility I-PHE
+and O
+decreases O
+the O
+postoperative B-PHE
+symptoms I-PHE
+of O
+patients O
+with O
+total O
+gastrectomy O
+with O
+jejunal O
+pouch O
+interposition O
+, O
+suppresses O
+postoperative O
+inflammation B-PHE
+following O
+surgery O
+for O
+colorectal B-PHE
+cancer I-PHE
+, O
+and O
+controls O
+radiation-induced O
+enteritis B-PHE
+. O
+
+Rikkunshito O
+contributes O
+to O
+the O
+amelioration O
+of O
+anorectic B-PHE
+conditions I-PHE
+in O
+cancer B-PHE
+cachexia-anorexia I-PHE
+syndrome I-PHE
+. O
+
+Goshajinkigan O
+and O
+Shakuyakukanzoto O
+reduce O
+the O
+neurotoxicity B-PHE
+of O
+patients O
+with O
+colorectal B-PHE
+cancer I-PHE
+who O
+undergo O
+oxaliplatin O
+and O
+FOLFOX O
+( O
+5-fluorouracil/folinic O
+acid O
+plus O
+oxaliplatin O
+) O
+therapy O
+. O
+
+Hangeshashinto O
+has O
+the O
+effect O
+of O
+preventing O
+and O
+alleviating O
+diarrhea B-PHE
+induced O
+by O
+CPT-11(irinotecan O
+) O
+and O
+combination O
+therapy O
+with O
+S-1/CPT-11 O
+. O
+
+O'rengedokuto O
+significantly O
+improves O
+mucositis B-PHE
+caused O
+by O
+anticancer B-PHE
+agents O
+. O
+
+-DOCSTART- O
+
+
+infertility B-PHE
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+symptom O
+with O
+vomiting B-PHE
+because O
+of O
+Cold-Damp B-PHE
+. O
+
+-DOCSTART- O
+
+
+Symptoms O
+of O
+menopause B-PHE
+. O
+
+-DOCSTART- O
+
+
+Excessive O
+Repair O
+
+-DOCSTART- O
+
+
+dizziness B-PHE
+; O
+vertigo B-PHE
+
+-DOCSTART- O
+
+
+To O
+replenish O
+yin O
+of O
+the O
+lung B-PHE
+and O
+stomach B-PHE
+, O
+remove O
+heat B-PHE
+from O
+the O
+lung O
+, O
+and O
+promote O
+fluid B-PHE
+secretion I-PHE
+. O
+
+-DOCSTART- O
+
+
+Its O
+chief O
+component O
+is O
+berberine O
+. O
+
+-DOCSTART- O
+
+
+Not O
+discarded O
+retention B-PHE
+of I-PHE
+undigested I-PHE
+food I-PHE
+
+-DOCSTART- O
+
+
+hemoptysis B-PHE
+
+-DOCSTART- O
+
+
+Temporomandibular B-PHE
+Joint I-PHE
+Dysfunction I-PHE
+
+-DOCSTART- O
+
+
+dribbling B-PHE
+urination I-PHE
+; O
+dribbling B-PHE
+of I-PHE
+urine I-PHE
+
+-DOCSTART- O
+
+
+Diagnostic O
+yield O
+and O
+adverse O
+effects O
+of O
+MRI-guided O
+free-hand O
+brain O
+biopsies O
+through O
+a O
+mini-burr O
+hole O
+in O
+dogs O
+with O
+encephalitis O
+. O
+
+-DOCSTART- O
+
+
+Investigated O
+for O
+use/treatment O
+in O
+adverse O
+effects O
+( O
+chemotherapy O
+) O
+and O
+bone B-PHE
+marrow I-PHE
+transplant O
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+: O
+1 O
+Deficient O
+yin O
+of O
+the O
+lungs B-PHE
+with O
+heat B-PHE
+manifested O
+as O
+dry B-PHE
+cough I-PHE
+or O
+cough B-PHE
+with O
+scanty O
+sputum B-PHE
+, O
+hoarse B-PHE
+voice I-PHE
+from O
+a O
+chronic B-PHE
+cough I-PHE
+, O
+dry B-PHE
+throat I-PHE
+and O
+thirst B-PHE
+. O
+
+Glehnia O
+root O
+( O
+Shashen O
+) O
+is O
+used O
+with O
+Ophiopogon O
+root O
+( O
+Maidong O
+) O
+and O
+Tendrilled O
+fritillary O
+bulb O
+( O
+Chuanbeimu O
+) O
+. O
+
+2 O
+Body O
+fluids O
+consumed O
+by O
+febrile B-PHE
+diseases I-PHE
+manifested O
+as O
+dry B-PHE
+tongue I-PHE
+and O
+poor B-PHE
+appetite I-PHE
+. O
+
+Glehnia O
+root O
+( O
+Shashen O
+) O
+is O
+used O
+with O
+Ophiopogon O
+root O
+( O
+Maidong O
+) O
+, O
+Fresh O
+rehmannia O
+root O
+( O
+Shengdihuang O
+) O
+and O
+Fragrant O
+solomonseal O
+rhizome O
+( O
+Yuzhu O
+) O
+in O
+the O
+formula O
+Yiwei O
+Tang O
+. O
+
+-DOCSTART- O
+
+
+Lenalidomide O
+inhibits O
+TNF-alpha B-PHE
+production I-PHE
+, O
+stimulates O
+T B-PHE
+cells I-PHE
+, O
+reduces O
+serum B-PHE
+levels I-PHE
+of I-PHE
+the I-PHE
+cytokines I-PHE
+vascular I-PHE
+endothelial I-PHE
+growth I-PHE
+factor I-PHE
+( O
+VEGF B-PHE
+) O
+and O
+basic B-PHE
+fibroblast I-PHE
+growth I-PHE
+factor I-PHE
+( O
+bFGF B-PHE
+) O
+, O
+and O
+inhibits O
+angiogenesis B-PHE
+. O
+
+-DOCSTART- O
+
+
+stop O
+bleeding B-PHE
+and O
+stabilize O
+pain B-PHE
+
+-DOCSTART- O
+
+
+Detection O
+of O
+primary O
+and O
+metastatic B-PHE
+pheochromocytoma I-PHE
+or O
+neuroblastoma B-PHE
+
+-DOCSTART- O
+
+
+insubstantial O
+wind B-PHE
+
+-DOCSTART- O
+
+
+Liver B-PHE
+Disease I-PHE
+
+-DOCSTART- O
+
+
+Acute B-PHE
+Exacerbations I-PHE
+of I-PHE
+Chronic I-PHE
+Bronchitis I-PHE
+
+-DOCSTART- O
+
+
+pulmonary B-PHE
+asthenia I-PHE
+; O
+lung B-PHE
+atropy I-PHE
+; O
+pulmonary B-PHE
+flaccidity I-PHE
+syndrome I-PHE
+
+-DOCSTART- O
+
+
+Wind-cold B-PHE
+common I-PHE
+cold I-PHE
+, O
+headache B-PHE
+, O
+cough B-PHE
+and O
+asthma B-PHE
+, O
+deep-source B-PHE
+nasal I-PHE
+congestion I-PHE
+, O
+cold B-PHE
+pain I-PHE
+in O
+stomach O
+duct O
+and O
+abdomen O
+, O
+wind-cold-damp B-PHE
+impediment I-PHE
+, O
+cold-damp B-PHE
+vaginal I-PHE
+discharge I-PHE
+, O
+dysmenorrhea B-PHE
+, O
+toxin B-PHE
+swelling I-PHE
+of I-PHE
+sores I-PHE
+, O
+wind O
+papule B-PHE
+itching O
+. O
+
+-DOCSTART- O
+
+
+dizziness B-PHE
+and O
+vertigo B-PHE
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+syndrome B-PHE
+with I-PHE
+numbness I-PHE
+and O
+a O
+pain B-PHE
+due O
+to O
+Wind-Dampness B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+replenish O
+the O
+liver B-PHE
+and O
+kidney B-PHE
+, O
+improve O
+eyesight B-PHE
+and O
+promote O
+the O
+growth B-PHE
+of I-PHE
+black I-PHE
+hair I-PHE
+. O
+
+-DOCSTART- O
+
+
+Childhood B-PHE
+B I-PHE
+Acute I-PHE
+Lymphoblastic I-PHE
+Leukemia I-PHE
+
+-DOCSTART- O
+
+
+burns B-PHE
+; O
+fire B-PHE
+burns I-PHE
+
+-DOCSTART- O
+
+
+sparrow B-PHE
+vision I-PHE
+; O
+night B-PHE
+blindness I-PHE
+
+-DOCSTART- O
+
+
+Pheochromocytoma B-PHE
+
+-DOCSTART- O
+
+
+alleviate O
+edema B-PHE
+
+-DOCSTART- O
+
+
+spinal B-PHE
+cord I-PHE
+problems I-PHE
+, O
+pain B-PHE
+etc O
+. O
+
+-DOCSTART- O
+
+
+Bofutsushosan O
+, O
+a O
+traditional O
+Chinese O
+formulation O
+, O
+prevents O
+intimal B-PHE
+thickening I-PHE
+and O
+vascular B-PHE
+smooth I-PHE
+muscle I-PHE
+cell I-PHE
+proliferation I-PHE
+induced O
+by O
+balloon O
+endothelial B-PHE
+denudation I-PHE
+in O
+rats O
+. O
+
+-DOCSTART- O
+
+
+To O
+strengthen O
+the O
+body B-PHE
+resistance I-PHE
+to O
+consolidate O
+the O
+constitution O
+, O
+replenish O
+qi O
+, O
+invigorate O
+the O
+spleen B-PHE
+and O
+tonify O
+the O
+spleen B-PHE
+and O
+tonify O
+the O
+kidney B-PHE
+to O
+relieve O
+mental B-PHE
+strain I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+dissipate O
+binds O
+and O
+relieve O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+Mucosal B-PHE
+Melanoma I-PHE
+
+-DOCSTART- O
+
+
+latent O
+summer B-PHE
+heat I-PHE
+syndrome I-PHE
+
+-DOCSTART- O
+
+
+dry B-PHE
+mouth I-PHE
+; O
+
+xerostomia B-PHE
+; O
+
+dryness B-PHE
+of I-PHE
+mouth I-PHE
+
+-DOCSTART- O
+
+
+Unresectable O
+Metastasis O
+Originating O
+in O
+Colonic B-PHE
+Cancer I-PHE
+. O
+
+-DOCSTART- O
+
+
+Croton O
+seed O
+( O
+Badou O
+) O
+is O
+used O
+with O
+Medicated O
+leaven O
+( O
+Shenqu O
+) O
+, O
+Arisaema O
+tuber O
+with O
+bile O
+( O
+Dannanxing O
+) O
+and O
+Cinnabar O
+( O
+Zhusha O
+) O
+in O
+the O
+formula O
+Baochi O
+San O
+. O
+
+-DOCSTART- O
+
+
+warm O
+large B-PHE
+intestine I-PHE
+
+-DOCSTART- O
+
+
+absorption B-PHE
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+motility B-PHE
+, O
+Others O
+
+-DOCSTART- O
+
+
+Nausea B-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+loss B-PHE
+of I-PHE
+consciousness I-PHE
+in O
+stroke B-PHE
+and O
+epilepsy B-PHE
+, O
+sore B-PHE
+throat I-PHE
+, O
+dyspnea B-PHE
+and O
+cough B-PHE
+with O
+phlegm B-PHE
+difficult O
+to O
+spit O
+out O
+, O
+constipation B-PHE
+, O
+external O
+use O
+for O
+subcutaneous B-PHE
+pyogenic I-PHE
+infections I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+kill O
+roundworms B-PHE
+; O
+
+To O
+kill O
+worms B-PHE
+; O
+
+To O
+move O
+qi O
+; O
+
+To O
+stop O
+pain B-PHE
+
+-DOCSTART- O
+
+
+There O
+are O
+two O
+isoforms O
+of O
+ACE O
+: O
+the O
+somatic O
+isoform O
+, O
+which O
+exists O
+as O
+a O
+glycoprotein O
+comprised O
+of O
+a O
+single O
+polypeptide O
+chain O
+of O
+1277 O
+; O
+and O
+the O
+testicular B-PHE
+isoform I-PHE
+, O
+which O
+has O
+a O
+lower O
+molecular O
+mass O
+and O
+is O
+thought O
+to O
+play O
+a O
+role O
+in O
+sperm B-PHE
+maturation I-PHE
+and O
+binding O
+of O
+sperm B-PHE
+to O
+the O
+oviduct B-PHE
+epithelium I-PHE
+. O
+
+Somatic O
+ACE O
+has O
+two O
+functionally O
+active O
+domains O
+, O
+N O
+and O
+C, O
+which O
+arise O
+from O
+tandem O
+gene B-PHE
+duplication I-PHE
+. O
+
+Although O
+the O
+two O
+domains O
+have O
+high O
+sequence O
+similarity O
+, O
+they O
+play O
+distinct O
+physiological O
+roles O
+. O
+
+The O
+C-domain O
+is O
+predominantly O
+involved O
+in O
+blood B-PHE
+pressure I-PHE
+regulation I-PHE
+while O
+the O
+N-domain O
+plays O
+a O
+role O
+in O
+hematopoietic B-PHE
+stem I-PHE
+cell I-PHE
+differentiation I-PHE
+and I-PHE
+proliferation I-PHE
+. O
+
+ACE O
+inhibitors O
+bind O
+to O
+and O
+inhibit O
+the O
+activity O
+of O
+both O
+domains O
+, O
+but O
+have O
+much O
+greater O
+affinity O
+for O
+and O
+inhibitory O
+activity O
+against O
+the O
+C-domain O
+. O
+
+Enalaprilat O
+, O
+the O
+principle O
+active B-PHE
+metabolite I-PHE
+of O
+enalapril O
+, O
+competes O
+with O
+ATI O
+for O
+binding O
+to O
+ACE O
+and O
+inhibits O
+and O
+enzymatic B-PHE
+proteolysis I-PHE
+of O
+ATI O
+to O
+ATII O
+. O
+
+Decreasing O
+ATII B-PHE
+levels I-PHE
+in O
+the O
+body O
+decreases O
+blood B-PHE
+pressure I-PHE
+by O
+inhibiting O
+the O
+pressor B-PHE
+effects I-PHE
+of I-PHE
+ATII I-PHE
+as O
+described O
+in O
+the O
+Pharmacology O
+section O
+above O
+. O
+
+Enalapril O
+also O
+causes O
+an O
+increase O
+in O
+plasma B-PHE
+renin I-PHE
+activity I-PHE
+likely O
+due O
+to O
+a O
+loss O
+of O
+feedback O
+inhibition O
+mediated O
+by O
+ATII O
+on O
+the O
+release O
+of O
+renin B-PHE
+and/or O
+stimulation O
+of O
+reflex O
+mechanisms O
+via O
+baroreceptors O
+. O
+
+Enalaprilat's O
+affinity O
+for O
+ACE O
+is O
+approximately O
+200000 O
+times O
+greater O
+than O
+that O
+of O
+ATI O
+and O
+300-1000 O
+times O
+greater O
+than O
+that O
+enalapril O
+. O
+
+-DOCSTART- O
+
+
+Blockade O
+of O
+dopaminergic O
+D2 O
+receptors O
+in O
+the O
+limbic B-PHE
+system I-PHE
+alleviates O
+positive O
+symptoms O
+of O
+schizophrenia B-PHE
+such O
+as O
+hallucinations B-PHE
+, O
+delusions B-PHE
+, O
+and O
+erratic B-PHE
+behavior I-PHE
+and O
+speech O
+. O
+
+Blockade O
+of O
+serotonergic O
+5-HT O
+2 O
+receptors O
+in O
+the O
+mesocortical B-PHE
+tract I-PHE
+, O
+causes O
+an O
+excess O
+of O
+dopamine O
+and O
+an O
+increase O
+in O
+dopamine O
+transmission O
+, O
+resulting O
+in O
+an O
+increase O
+in O
+dopamine O
+transmission O
+and O
+an O
+elimination O
+of O
+core O
+negative O
+symptoms O
+. O
+
+Dopamine O
+receptors O
+in O
+the O
+nigrostriatal O
+pathway O
+are O
+not O
+affected O
+by O
+risperidone O
+and O
+extrapyramidal O
+effects O
+are O
+avoided O
+. O
+
+Like O
+other O
+5-HT O
+2 O
+antagonists O
+, O
+risperidone O
+also O
+binds O
+at O
+alpha(1)-adrenergic O
+receptors O
+and O
+, O
+to O
+a O
+lesser O
+extent O
+, O
+at O
+histamine O
+H1 O
+and O
+alpha(2)-adrenergic O
+receptors O
+. O
+
+-DOCSTART- O
+
+
+one O
+of O
+cough B-PHE
+that O
+gets O
+worst O
+at O
+night O
+. O
+
+That O
+occurs O
+by O
+insubstantial O
+Fire O
+in O
+the O
+lung O
+due O
+to O
+insufficiency O
+of O
+the O
+kidney O
+Eum O
+
+-DOCSTART- O
+
+
+insufficiency O
+of O
+heart B-PHE
+Gi O
+
+-DOCSTART- O
+
+
+Stage O
+II O
+Contiguous O
+Adult B-PHE
+Lymphoblastic I-PHE
+Lymphoma I-PHE
+
+-DOCSTART- O
+
+
+Heparin O
+binds O
+to O
+antithrombin B-PHE
+III I-PHE
+to O
+form O
+a O
+heparin-antithrombin O
+III O
+complex O
+. O
+
+-DOCSTART- O
+
+
+a O
+disease O
+like O
+a O
+cholera B-PHE
+. O
+
+That O
+Has O
+a O
+abdominal B-PHE
+pain I-PHE
+, O
+vomiting B-PHE
+and O
+diarrhea B-PHE
+caused O
+by O
+dirty O
+and O
+acute O
+filthy O
+Gi O
+
+-DOCSTART- O
+
+
+lack O
+of O
+essence O
+and O
+blood B-PHE
+
+-DOCSTART- O
+
+
+asthma B-PHE
+; O
+
+dyspnea B-PHE
+; O
+
+abnormal O
+rising O
+of O
+Gi O
+; O
+
+upward O
+Gi O
+dyspnea O
+due O
+to O
+upward O
+adverse O
+flow O
+of O
+the O
+lung-Gi O
+
+-DOCSTART- O
+
+
+Intercritical O
+Gout B-PHE
+
+-DOCSTART- O
+
+
+promote O
+sweating B-PHE
+
+-DOCSTART- O
+
+
+Docetaxel O
+binds O
+to O
+microtubules O
+reversibly O
+with O
+high O
+affinity O
+, O
+which O
+stabilises O
+microtubules O
+and O
+prevents O
+depolymerisation O
+from O
+calcium O
+ions O
+, O
+decreased B-PHE
+temperature I-PHE
+and O
+dilution B-PHE
+, O
+preferentially O
+at O
+the O
+plus O
+end O
+of O
+the O
+microtubule O
+. O
+
+Irinotecan O
+, O
+a O
+prodrug O
+, O
+is O
+converted O
+to O
+a O
+biologically O
+active O
+metabolite O
+7-ethyl-10-hydroxy-camptothecin O
+( O
+SN-38 O
+) O
+by O
+a O
+carboxylesterase-converting O
+enzyme O
+. O
+
+SN-38 O
+inhibits O
+topoisomerase B-PHE
+I I-PHE
+activity I-PHE
+by O
+stabilizing O
+the O
+cleavable O
+complex O
+between O
+topoisomerase B-PHE
+I I-PHE
+and O
+DNA B-PHE
+, O
+resulting O
+in O
+DNA B-PHE
+breaks I-PHE
+that O
+inhibit O
+DNA B-PHE
+replication I-PHE
+and O
+trigger O
+apoptotic B-PHE
+cell I-PHE
+death I-PHE
+. O
+
+-DOCSTART- O
+
+
+Liver B-PHE
+cancer I-PHE
+
+-DOCSTART- O
+
+
+1 O
+Morellic B-PHE
+acid I-PHE
+, O
+one O
+of O
+its O
+components O
+, O
+inhibits O
+Ehrljch-Ascites B-PHE
+tumour I-PHE
+and O
+sarcoma180 B-PHE
+. O
+
+2 O
+Inhibiting O
+BEL-7402 B-PHE
+species I-PHE
+of O
+hepatic B-PHE
+cancer I-PHE
+cells I-PHE
+and O
+HeLa B-PHE
+cells I-PHE
+in O
+vitro O
+. O
+
+3 O
+Increasing O
+white B-PHE
+blood I-PHE
+cells I-PHE
+and O
+promoting O
+its O
+phagocytosis B-PHE
+during O
+the O
+treatment O
+of O
+cancer B-PHE
+in O
+experimental O
+animals O
+
+-DOCSTART- O
+
+
+heavy B-PHE
+eyes I-PHE
+
+-DOCSTART- O
+
+
+moderate O
+sinews B-PHE
+and O
+bones B-PHE
+
+-DOCSTART- O
+
+
+deficiency B-PHE
+of O
+the O
+kidney O
+; O
+
+deficiency B-PHE
+syndrome I-PHE
+of O
+the O
+kidney O
+the O
+pathological B-PHE
+changes I-PHE
+due O
+to O
+deficiency B-PHE
+of O
+the O
+kidney O
+essence O
+, O
+usually O
+characterized O
+by O
+dizziness B-PHE
+, O
+tinnitus B-PHE
+, O
+lumbago B-PHE
+, O
+nocturnal B-PHE
+emission I-PHE
+, O
+impotence B-PHE
+, O
+lassitude B-PHE
+, O
+forgetfulness B-PHE
+. O
+
+-DOCSTART- O
+
+
+Adult B-PHE
+Acute I-PHE
+Myeloid I-PHE
+Leukemia I-PHE
+With O
+t(16;16)(p13.1;q22 O
+) O
+; O
+CBFB-MYH11 O
+
+-DOCSTART- O
+
+
+Mouth B-PHE
+sore I-PHE
+, O
+clove B-PHE
+sore I-PHE
+, O
+hemorrhoids B-PHE
+, O
+scrotal B-PHE
+eczema I-PHE
+, O
+bleeding B-PHE
+due O
+to O
+external B-PHE
+injury I-PHE
+. O
+
+-DOCSTART- O
+
+
+This O
+disease B-PHE
+has O
+a O
+characteristics O
+of O
+gradual O
+onset O
+, O
+plat O
+form O
+of O
+ulceration B-PHE
+, O
+mild O
+or O
+no O
+pain B-PHE
+, O
+no O
+change O
+of O
+skin B-PHE
+color I-PHE
+or O
+dark O
+reddish O
+or O
+blackened O
+color O
+change O
+, O
+mild O
+or O
+no O
+fever B-PHE
+, O
+not O
+well O
+subsided O
+or O
+healed O
+, O
+occasional O
+lump B-PHE
+formation I-PHE
+, O
+no O
+pus B-PHE
+, O
+long O
+duration O
+of O
+treatment O
+, O
+thin O
+colourful O
+discharge O
+, O
+Chimse O
+and O
+weak O
+Mac O
+. O
+
+-DOCSTART- O
+
+
+To O
+drain O
+accumulated O
+cold B-PHE
+downward O
+
+-DOCSTART- O
+
+
+As O
+first O
+clinical O
+data O
+indicate O
+, O
+the O
+achieved O
+blood B-PHE
+pressure I-PHE
+reduction I-PHE
+was O
+particularly O
+pronounced O
+in O
+the O
+early O
+morning O
+when O
+the O
+vaccine O
+effect O
+suppressed O
+the O
+naturally O
+occurring O
+morning O
+rise O
+in O
+blood B-PHE
+pressure I-PHE
+. O
+
+-DOCSTART- O
+
+
+Kallmann B-PHE
+Syndrome I-PHE
+
+-DOCSTART- O
+
+
+Hydroflumethiazide O
+is O
+a O
+thiazide O
+diuretic O
+that O
+inhibits O
+water B-PHE
+reabsorption I-PHE
+in O
+the O
+nephron O
+by O
+inhibiting O
+the O
+sodium-chloride B-PHE
+symporter I-PHE
+( O
+SLC12A3 B-PHE
+) O
+in O
+the O
+distal O
+convoluted O
+tubule O
+, O
+which O
+is O
+responsible O
+for O
+0.05 O
+of O
+total O
+sodium B-PHE
+reabsorption I-PHE
+. O
+
+Normally O
+, O
+the O
+sodium-chloride O
+symporter O
+transports O
+sodium O
+and O
+chloride O
+from O
+the O
+lumen O
+into O
+the O
+epithelial O
+cell O
+lining O
+the O
+distal O
+convoluted O
+tubule O
+. O
+
+The O
+energy O
+for O
+this O
+is O
+provided O
+by O
+a O
+sodium O
+gradient O
+established O
+by O
+sodium-potassium B-PHE
+ATPases I-PHE
+on O
+the O
+basolateral B-PHE
+membrane I-PHE
+. O
+
+Once O
+sodium O
+has O
+entered O
+the O
+cell O
+, O
+it O
+is O
+transported O
+out O
+into O
+the O
+basolateral O
+interstitium O
+via O
+the O
+sodium-potassium O
+ATPase O
+, O
+causing O
+an O
+increase O
+in O
+the O
+osmolarity B-PHE
+of I-PHE
+the I-PHE
+interstitium I-PHE
+, O
+thereby O
+establishing O
+an O
+osmotic B-PHE
+gradient I-PHE
+for O
+water B-PHE
+reabsorption I-PHE
+. O
+
+By O
+blocking O
+the O
+sodium-chloride B-PHE
+symporter I-PHE
+, O
+Hydroflumethiazide O
+effectively O
+reduces O
+the O
+osmotic B-PHE
+gradient I-PHE
+and O
+water B-PHE
+reabsorption I-PHE
+throughout O
+the O
+nephron O
+. O
+
+-DOCSTART- O
+
+
+For O
+calming O
+liver B-PHE
+and O
+containing O
+wind B-PHE
+
+-DOCSTART- O
+
+
+The O
+powder O
+of O
+Croton O
+seed O
+( O
+Badou O
+) O
+is O
+blown O
+into O
+the O
+throat B-PHE
+to O
+cause O
+vomiting B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+tonify O
+the O
+liver B-PHE
+and O
+the O
+kidney B-PHE
+, O
+to O
+strengthen O
+the O
+tendons B-PHE
+and O
+bones B-PHE
+, O
+and O
+to O
+prevent O
+miscarrige B-PHE
+. O
+
+-DOCSTART- O
+
+
+uncomfortable O
+of O
+the O
+heart B-PHE
+and O
+gallbladder B-PHE
+
+-DOCSTART- O
+
+
+It O
+contains O
+about O
+0.5 O
+of O
+fatty O
+oil O
+, O
+exerting O
+antitussive O
+effect O
+. O
+
+-DOCSTART- O
+
+
+To O
+arrest O
+seminal B-PHE
+emission I-PHE
+, O
+to O
+restrain O
+urination B-PHE
+, O
+and O
+to O
+check O
+diarrhea B-PHE
+. O
+
+cturnal B-PHE
+emission I-PHE
+, O
+spermatorrhea B-PHE
+, O
+enuresis B-PHE
+, O
+frequent B-PHE
+urination I-PHE
+, O
+abnormal B-PHE
+uterine I-PHE
+bleeding I-PHE
+, O
+excessive O
+leukorrhea B-PHE
+, O
+protracted O
+diarrhea B-PHE
+, O
+chronic B-PHE
+dysentery I-PHE
+. O
+
+-DOCSTART- O
+
+
+For O
+dispelling O
+wind-dampness B-PHE
+and O
+dispersing O
+coldness B-PHE
+. O
+
+-DOCSTART- O
+
+
+Indicated O
+in O
+the O
+treatment O
+of O
+moderate O
+to O
+severe O
+pain B-PHE
+. O
+
+Consider O
+for O
+those O
+prone O
+to O
+constipation B-PHE
+or O
+respiratory B-PHE
+depression I-PHE
+. O
+
+Tramadol O
+is O
+used O
+to O
+treat O
+postoperative O
+, O
+dental O
+, O
+cancer B-PHE
+, O
+and O
+acute B-PHE
+musculosketetal I-PHE
+pain I-PHE
+and O
+as O
+an O
+adjuvant O
+to O
+NSAID O
+therapy O
+in O
+patients O
+with O
+osteoarthritis B-PHE
+. O
+
+-DOCSTART- O
+
+
+Nevirapine O
+binds O
+directly O
+to O
+reverse B-PHE
+transcriptase I-PHE
+and O
+blocks O
+the O
+RNA-dependent B-PHE
+and I-PHE
+DNA-dependent I-PHE
+DNA I-PHE
+polymerase I-PHE
+activities O
+by O
+causing O
+a O
+disruption B-PHE
+of I-PHE
+the I-PHE
+enzyme's I-PHE
+catalytic I-PHE
+site I-PHE
+. O
+
+-DOCSTART- O
+
+
+Strengthen O
+the O
+heart B-PHE
+and O
+replenish O
+qi O
+, O
+activating O
+yang O
+and O
+blood B-PHE
+circulation I-PHE
+, O
+promoting O
+the O
+restoration B-PHE
+of I-PHE
+consciousness I-PHE
+with O
+drugs O
+of O
+fragnant O
+flavour O
+, O
+relieving O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+insulin B-PHE
+sensitivity I-PHE
+and O
+diabetes B-PHE
+risk O
+, O
+Body B-PHE
+weight I-PHE
+regulation I-PHE
+, O
+Improvement O
+of O
+blood B-PHE
+glucose I-PHE
+levels I-PHE
+, O
+Body B-PHE
+weight I-PHE
+
+-DOCSTART- O
+
+
+aversion O
+to O
+cold B-PHE
+; O
+
+severe B-PHE
+chillness I-PHE
+; O
+
+creeping B-PHE
+chills I-PHE
+
+-DOCSTART- O
+
+
+Colorectal B-PHE
+Cancer I-PHE
+
+-DOCSTART- O
+
+
+There O
+are O
+two O
+isoforms O
+of O
+ACE O
+: O
+the O
+somatic O
+isoform O
+, O
+which O
+exists O
+as O
+a O
+glycoprotein O
+comprised O
+of O
+a O
+single O
+polypeptide O
+chain O
+of O
+1277 O
+; O
+and O
+the O
+testicular O
+isoform O
+, O
+which O
+has O
+a O
+lower O
+molecular O
+mass O
+and O
+is O
+thought O
+to O
+play O
+a O
+role O
+in O
+sperm B-PHE
+maturation I-PHE
+and O
+binding O
+of O
+sperm O
+to O
+the O
+oviduct O
+epithelium O
+. O
+
+Somatic O
+ACE O
+has O
+two O
+functionally O
+active O
+domains O
+, O
+N O
+and O
+C, O
+which O
+arise O
+from O
+tandem O
+gene O
+duplication O
+. O
+
+Although O
+the O
+two O
+domains O
+have O
+high O
+sequence O
+similarity O
+, O
+they O
+play O
+distinct O
+physiological O
+roles O
+. O
+
+The O
+C-domain O
+is O
+predominantly O
+involved O
+in O
+blood B-PHE
+pressure I-PHE
+regulation I-PHE
+while O
+the O
+N-domain O
+plays O
+a O
+role O
+in O
+hematopoietic O
+stem O
+cell O
+differentiation O
+and O
+proliferation O
+. O
+
+ACE O
+inhibitors O
+bind O
+to O
+and O
+inhibit O
+the O
+activity O
+of O
+both O
+domains O
+, O
+but O
+have O
+much O
+greater O
+affinity O
+for O
+and O
+inhibitory O
+activity O
+against O
+the O
+C-domain O
+. O
+
+Quinaprilat O
+, O
+the O
+principle O
+active O
+metabolite O
+of O
+quinapril O
+, O
+competes O
+with O
+ATI O
+for O
+binding O
+to O
+ACE O
+and O
+inhibits O
+and O
+enzymatic O
+proteolysis O
+of O
+ATI O
+to O
+ATII O
+. O
+
+Decreasing O
+ATII O
+levels O
+in O
+the O
+body O
+decreases O
+blood B-PHE
+pressure I-PHE
+by O
+inhibiting O
+the O
+pressor O
+effects O
+of O
+ATII O
+as O
+described O
+in O
+the O
+Pharmacology O
+section O
+above O
+. O
+
+Quinaprilat O
+also O
+causes O
+an O
+increase O
+in O
+plasma O
+renin O
+activity O
+likely O
+due O
+to O
+a O
+loss O
+of O
+feedback O
+inhibition O
+mediated O
+by O
+ATII O
+on O
+the O
+release O
+of O
+renin O
+and/or O
+stimulation O
+of O
+reflex O
+mechanisms O
+via O
+baroreceptors O
+. O
+
+-DOCSTART- O
+
+
+The O
+role O
+of O
+crude O
+polysaccharide O
+fractions O
+on O
+the O
+mitogenic B-PHE
+activity I-PHE
+by O
+Shosaikoto O
+. O
+
+-DOCSTART- O
+
+
+dyspnea B-PHE
+and O
+tachypnea B-PHE
+; O
+
+shortness B-PHE
+of I-PHE
+breath I-PHE
+
+-DOCSTART- O
+
+
+A O
+symptom O
+that O
+the O
+lung O
+is O
+blocked O
+up O
+caused O
+by O
+symptoms O
+due O
+to O
+retention B-PHE
+of I-PHE
+phlegm I-PHE
+. O
+
+-DOCSTART- O
+
+
+Anesthesia B-PHE
+With O
+Use O
+of O
+LMA O
+( O
+Laryngeal O
+Mask O
+Airway O
+) O
+
+-DOCSTART- O
+
+
+cough B-PHE
+with I-PHE
+blood I-PHE
+due O
+to O
+a O
+damaged B-PHE
+lungs I-PHE
+because O
+of O
+exhaustion B-PHE
+syndrome I-PHE
+
+-DOCSTART- O
+
+
+To O
+nourish O
+yin O
+and O
+moisterize O
+lung B-PHE
+; O
+
+To O
+suppress O
+fire O
+and O
+desolve O
+phlegm B-PHE
+
+-DOCSTART- O
+
+
+carbuncle B-PHE
+and O
+cellulitis B-PHE
+
+-DOCSTART- O
+
+
+impetigo B-PHE
+; O
+pyoderma B-PHE
+
+-DOCSTART- O
+
+
+having O
+painful B-PHE
+and I-PHE
+benumbed I-PHE
+joint I-PHE
+
+-DOCSTART- O
+
+
+Childhood B-PHE
+Acute I-PHE
+Megakaryoblastic I-PHE
+Leukemia I-PHE
+
+-DOCSTART- O
+
+
+desire O
+for O
+vomiting B-PHE
+; O
+feel O
+nauseated B-PHE
+; O
+nausea B-PHE
+
+-DOCSTART- O
+
+
+For O
+the O
+treatment O
+of O
+adult O
+patients O
+diagnosed O
+with O
+anaplastic B-PHE
+astrocytoma I-PHE
+whose O
+disease O
+has O
+progressed O
+after O
+therapy O
+with O
+nitrosourea O
+and O
+procarbazine O
+, O
+as O
+well O
+as O
+concomitantly O
+with O
+radiation O
+therapy O
+for O
+treatment O
+of O
+newly O
+diagnosed O
+glioblastoma B-PHE
+multiforme I-PHE
+. O
+Also O
+used O
+as O
+maintenance O
+therapy O
+for O
+glioblastoma B-PHE
+multiforme I-PHE
+. O
+
+-DOCSTART- O
+
+
+amenorrhea B-PHE
+
+-DOCSTART- O
+
+
+acute B-PHE
+appendicitis I-PHE
+; O
+periappendicular B-PHE
+abscess I-PHE
+; O
+intestinal B-PHE
+carbuncle I-PHE
+; O
+intestinal B-PHE
+abscess I-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+jaundice B-PHE
+caused O
+by O
+damp-heat B-PHE
+, O
+heat B-PHE
+stroke I-PHE
+with O
+diarrhea B-PHE
+, O
+urolithiasis B-PHE
+and O
+hematuria B-PHE
+, O
+carbuncles B-PHE
+and O
+boils B-PHE
+, O
+traumatic B-PHE
+injuries I-PHE
+. O
+
+-DOCSTART- O
+
+
+epistaxis B-PHE
+
+-DOCSTART- O
+
+
+Indacaterol O
+works O
+by O
+stimulating O
+adrenergic O
+beta-2 O
+receptors O
+in O
+the O
+smooth O
+muscle O
+of O
+the O
+airways O
+. O
+
+Tiotropium O
+is O
+a O
+muscarinic O
+receptor O
+antagonist O
+, O
+often O
+referred O
+to O
+as O
+an O
+antimuscarinic O
+or O
+anticholinergic O
+agent O
+. O
+
+-DOCSTART- O
+
+
+Quality O
+of O
+life O
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Others O
+, O
+Protective B-PHE
+immunity I-PHE
+, O
+Inflammation B-PHE
+
+-DOCSTART- O
+
+
+Traumatic B-PHE
+brain I-PHE
+injury I-PHE
+
+-DOCSTART- O
+
+
+Follicular B-PHE
+Lymphoma I-PHE
+
+-DOCSTART- O
+
+
+Rikkunshito O
+( O
+RKT O
+) O
+, O
+a O
+Japanese O
+traditional O
+medicine O
+, O
+has O
+been O
+shown O
+to O
+stimulate O
+food O
+intake O
+in O
+rats O
+with O
+cisplatin-induced B-PHE
+anorexia I-PHE
+; O
+however O
+, O
+the O
+underlying O
+mechanisms O
+remain O
+unknown O
+. O
+
+In O
+this O
+study O
+, O
+we O
+investigated O
+whether O
+RKT O
+is O
+involved O
+in O
+the O
+degradation O
+of O
+peripheral B-PHE
+ghrelin I-PHE
+. O
+
+RKT O
+inhibited O
+decreases O
+in O
+plasma B-PHE
+ghrelin I-PHE
+level I-PHE
+and O
+enhanced O
+acyl- B-PHE
+to I-PHE
+desacyl-ghrelin I-PHE
+( O
+A/D B-PHE
+) O
+ratio O
+in O
+cisplatin-treated O
+rats O
+. O
+
+Several O
+components O
+of O
+RKT O
+demonstrated O
+inhibitory O
+activity O
+against O
+ghrelin B-PHE
+deacylating I-PHE
+enzymes I-PHE
+. O
+
+In O
+addition O
+, O
+10-gingerol O
+, O
+a O
+component O
+of O
+RKT O
+, O
+inhibited O
+exogenous O
+ghrelin B-PHE
+deacylation I-PHE
+. O
+
+Therefore O
+, O
+RKT O
+may O
+enhance O
+plasma B-PHE
+acyl I-PHE
+- I-PHE
+ghrelin I-PHE
+level I-PHE
+, O
+at O
+least O
+in O
+part O
+, O
+by O
+inhibiting O
+the O
+circulating O
+ghrelin B-PHE
+degrading I-PHE
+enzyme I-PHE
+. O
+
+-DOCSTART- O
+
+
+disperse O
+wind B-PHE
+and O
+eliminate O
+dampness B-PHE
+
+-DOCSTART- O
+
+
+extinguish O
+wind B-PHE
+and O
+stabilize O
+fright B-PHE
+
+-DOCSTART- O
+
+
+invigorate O
+blood B-PHE
+and O
+relieve O
+pain B-PHE
+
+-DOCSTART- O
+
+
+To O
+disperse O
+accumulation O
+, O
+disinhibit O
+diaphragm B-PHE
+, O
+precipitate O
+heat B-PHE
+toxin I-PHE
+. O
+
+-DOCSTART- O
+
+
+Kampo O
+( O
+traditional O
+Japanese O
+herbal O
+) O
+medicines O
+are O
+taken O
+orally O
+due O
+to O
+which O
+the O
+gastric B-PHE
+mucosal I-PHE
+immune I-PHE
+system I-PHE
+may O
+act O
+as O
+one O
+of O
+the O
+major O
+targets O
+for O
+the O
+expression O
+of O
+pharmacological O
+activity O
+. O
+
+The O
+inner O
+surface O
+of O
+the O
+intestinal O
+tract O
+possesses O
+a O
+large O
+area O
+of O
+mucosal O
+membranes O
+, O
+and O
+the O
+intestinal O
+epithelial O
+cells O
+sit O
+at O
+the O
+interface O
+between O
+a O
+lumen O
+and O
+a O
+lymphocyte O
+- O
+rich O
+lamina O
+propria O
+. O
+
+The O
+cross O
+talk O
+that O
+occurs O
+between O
+these O
+compartments O
+serves O
+to O
+maintain O
+intestinal B-PHE
+homeostasis I-PHE
+, O
+and O
+the O
+cytokine B-PHE
+network I-PHE
+plays O
+an O
+important O
+role O
+in O
+the O
+cross O
+talk O
+. O
+
+In O
+this O
+study O
+, O
+the O
+effect O
+of O
+Hochuekkito O
+( O
+HET O
+) O
+, O
+one O
+of O
+Kampo O
+medicines O
+, O
+on O
+cytokine B-PHE
+secretion I-PHE
+of O
+intestinal O
+epithelial O
+cells O
+was O
+investigated O
+. O
+
+When O
+murine O
+normal O
+colonic O
+epithelial O
+cell O
+- O
+line O
+MCE301 B-PHE
+cells I-PHE
+were O
+stimulated O
+with O
+HET O
+, O
+the O
+contents O
+of O
+granulocyte B-PHE
+colony I-PHE
+- I-PHE
+stimulating I-PHE
+factor I-PHE
+( O
+G B-PHE
+- I-PHE
+CSF I-PHE
+) O
+in O
+the O
+conditioned O
+medium O
+were O
+significantly O
+increased O
+in O
+dose O
+- O
+and O
+time O
+- O
+dependent O
+manners O
+. O
+
+The O
+enhanced O
+G B-PHE
+- I-PHE
+CSF I-PHE
+gene I-PHE
+transcription I-PHE
+in O
+MCE301 O
+cells O
+by O
+the O
+stimulation O
+of O
+HET O
+was O
+observed O
+by O
+RT O
+- O
+PCR O
+. O
+
+The O
+enhanced O
+G B-PHE
+- I-PHE
+G-CSF I-PHE
+secretion I-PHE
+by O
+HET O
+was O
+also O
+observed O
+in O
+C3H O
+/ O
+HeJ O
+mice O
+- O
+derived O
+primary O
+cultured O
+colonic O
+epithelial O
+cells O
+. O
+
+When O
+the O
+HET O
+was O
+fractionated O
+, O
+only O
+the O
+polysaccharide B-PHE
+fraction I-PHE
+( O
+F B-PHE
+- I-PHE
+5 I-PHE
+) O
+enhanced O
+the O
+G B-PHE
+- I-PHE
+CSF I-PHE
+secretion I-PHE
+of O
+MCE301 O
+cells O
+, O
+and O
+the O
+activity O
+of O
+F B-PHE
+- I-PHE
+5 I-PHE
+lost O
+after O
+the O
+treatment O
+of O
+periodate O
+that O
+can O
+degrade O
+the O
+carbohydrate O
+moiety O
+. O
+
+These O
+results O
+suggest O
+that O
+HET O
+enhances O
+secretion B-PHE
+of I-PHE
+G I-PHE
+- I-PHE
+CSF I-PHE
+from O
+colonic O
+epithelial O
+cells O
+and O
+the O
+polysaccharide O
+is O
+one O
+of O
+the O
+active O
+ingredients O
+of O
+HET O
+. O
+
+The O
+enhanced O
+G B-PHE
+- I-PHE
+CSF I-PHE
+secretion I-PHE
+by O
+HET O
+may O
+partly O
+contribute O
+to O
+the O
+clinically O
+observed O
+various O
+pharmacological O
+activities O
+of O
+HET O
+including O
+immunomodulating B-PHE
+activity I-PHE
+. O
+
+-DOCSTART- O
+
+
+accumulation O
+of O
+pathogenic B-PHE
+factors I-PHE
+in O
+the O
+chest O
+; O
+accumulation O
+of O
+pathogens B-PHE
+in O
+the O
+chest O
+; O
+knotted B-PHE
+chest I-PHE
+a O
+syndrome O
+due O
+to O
+accumulation O
+of O
+pathogenic O
+heat B-PHE
+or O
+cold B-PHE
+with O
+stagnancy B-PHE
+of I-PHE
+fluid I-PHE
+or O
+phlegm B-PHE
+or O
+blood B-PHE
+in O
+the O
+chest O
+. O
+
+-DOCSTART- O
+
+
+Acute B-PHE
+otitis I-PHE
+media I-PHE
+in O
+children O
+that O
+is O
+caused O
+by O
+susceptible O
+strains O
+of O
+Haemophilus B-PHE
+influenzae I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+promote O
+blood B-PHE
+circulation I-PHE
+, O
+remove O
+blood B-PHE
+stasis I-PHE
+, O
+restore O
+consciousness B-PHE
+, O
+remove O
+obstruction B-PHE
+in O
+the O
+channels O
+, O
+suppress O
+the O
+hyperfunction O
+of O
+liver-yang O
+and O
+stop O
+endogenous B-PHE
+wind I-PHE
+to O
+relieve O
+convulsion B-PHE
+. O
+
+-DOCSTART- O
+
+
+Renal B-PHE
+Impairment I-PHE
+
+-DOCSTART- O
+
+
+Knocks B-PHE
+and O
+falls B-PHE
+, O
+stasis B-PHE
+swelling I-PHE
+pain I-PHE
+, O
+wind-damp B-PHE
+impediment I-PHE
+pain I-PHE
+. O
+
+-DOCSTART- O
+
+
+Pectus B-PHE
+Excavatum I-PHE
+
+-DOCSTART- O
+
+
+End B-PHE
+Stage I-PHE
+Renal I-PHE
+Disease I-PHE
+
+-DOCSTART- O
+
+
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+insulin B-PHE
+sensitivity I-PHE
+and O
+diabetes B-PHE
+risk I-PHE
+, O
+Body B-PHE
+weight I-PHE
+regulation I-PHE
+, O
+Digestion B-PHE
+, O
+Energy O
+/ O
+food O
+intake O
+( O
+apetite O
+/ O
+satiety O
+) O
+, O
+Physical B-PHE
+performance B-PHE
+and O
+fitness B-PHE
+, O
+Body B-PHE
+fat I-PHE
+deposition I-PHE
+( O
+total O
+amount O
+
+-DOCSTART- O
+
+
+Chronic B-PHE
+Kidney I-PHE
+Disease I-PHE
+
+-DOCSTART- O
+
+
+To O
+regulate O
+qi O
+, O
+promote O
+blood B-PHE
+circulation I-PHE
+and O
+regulate O
+menstruation B-PHE
+. O
+
+-DOCSTART- O
+
+
+concurrent O
+disease B-PHE
+of O
+the O
+T'aeyang O
+meridian O
+and O
+the O
+Soyang O
+meridian O
+
+-DOCSTART- O
+
+
+soothe O
+diaphragm B-PHE
+
+-DOCSTART- O
+
+
+Stagnation O
+of O
+liver-qi O
+, O
+abnormal O
+relation O
+between O
+spleen O
+and O
+stomach O
+, O
+sensation B-PHE
+of I-PHE
+fullness I-PHE
+and O
+obstruction B-PHE
+over O
+chest O
+and O
+diaphragm O
+, O
+distension B-PHE
+at O
+hypochondriac O
+regions O
+, O
+stomach-ache B-PHE
+, O
+gastric B-PHE
+upset I-PHE
+, O
+eructation B-PHE
+, O
+acid B-PHE
+eructation I-PHE
+, O
+nausea B-PHE
+and O
+vomiting B-PHE
+. O
+
+-DOCSTART- O
+
+
+Psychomotor B-PHE
+Agitation I-PHE
+
+-DOCSTART- O
+
+
+Anemia B-PHE
+in I-PHE
+Chronic I-PHE
+Renal I-PHE
+Disease I-PHE
+
+-DOCSTART- O
+
+
+( O
+1 O
+) O
+pestilent B-PHE
+lesions I-PHE
+; O
+leprosy B-PHE
+( O
+2 O
+) O
+malignant B-PHE
+furuncle I-PHE
+
+-DOCSTART- O
+
+
+To O
+soothe O
+liver B-PHE
+and O
+clear O
+heat B-PHE
+; O
+To O
+constrain O
+qi O
+and O
+strengthen O
+spleen B-PHE
+; O
+To O
+calm O
+spirit B-PHE
+
+-DOCSTART- O
+
+
+Stage O
+IV O
+Adult B-PHE
+Lymphoblastic I-PHE
+Lymphoma I-PHE
+
+-DOCSTART- O
+
+
+Ascites B-PHE
+. O
+
+Croton O
+seed O
+( O
+Badou O
+) O
+is O
+used O
+with O
+Apricot O
+seed O
+( O
+Xingren O
+) O
+. O
+
+-DOCSTART- O
+
+
+Indicated O
+as O
+symptomatic O
+treatment O
+of O
+allergic B-PHE
+reactions I-PHE
+: O
+urticaria B-PHE
+, O
+allergies B-PHE
+of I-PHE
+the I-PHE
+upper I-PHE
+respiratory I-PHE
+tract I-PHE
+such O
+as O
+hey B-PHE
+fever I-PHE
+and O
+perennial B-PHE
+rhinitis I-PHE
+, O
+food B-PHE
+and I-PHE
+drug I-PHE
+allergies I-PHE
+; O
+pruritus B-PHE
+of I-PHE
+various I-PHE
+origins I-PHE
+, O
+except O
+pruritus B-PHE
+due O
+to O
+cholestasis B-PHE
+; O
+insect B-PHE
+bites I-PHE
+. O
+
+-DOCSTART- O
+
+
+be O
+torn O
+of O
+sore O
+toxic O
+pathogenic O
+factor O
+
+-DOCSTART- O
+
+
+Aortic B-PHE
+Valve I-PHE
+Stenosis I-PHE
+
+-DOCSTART- O
+
+
+Pulmonary B-PHE
+Arterial I-PHE
+Hypertension I-PHE
+
+-DOCSTART- O
+
+
+Intraabdominal B-PHE
+Infections I-PHE
+
+-DOCSTART- O
+
+
+relieve O
+cough B-PHE
+
+-DOCSTART- O
+
+
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+absorption O
+, O
+Lipid O
+profile O
+, O
+DietNArelated O
+cardiovascular B-PHE
+disease I-PHE
+, O
+motility O
+, O
+Evacuation O
+
+-DOCSTART- O
+
+
+a O
+continuum O
+of O
+pus B-PHE
+and O
+blood B-PHE
+due O
+to O
+the O
+parasite O
+in O
+the O
+ear O
+
+-DOCSTART- O
+
+
+steaming B-PHE
+bone I-PHE
+disorder I-PHE
+
+-DOCSTART- O
+
+
+stranguria B-PHE
+due O
+to O
+urinary B-PHE
+stone I-PHE
+; O
+dysuria B-PHE
+caused O
+by O
+urinary B-PHE
+stone I-PHE
+; O
+stranguria B-PHE
+due O
+to O
+urolithiasis B-PHE
+; O
+stony B-PHE
+dysuria I-PHE
+; O
+dysuria B-PHE
+caused O
+by O
+calculi B-PHE
+
+-DOCSTART- O
+
+
+ThioTEPA O
+is O
+used O
+a O
+as O
+conditioning O
+treatment O
+prior O
+to O
+allogeneic O
+or O
+autologous O
+haematopoietic O
+progenitor O
+cell O
+transplantation O
+( O
+HPCT O
+) O
+in O
+haematological B-PHE
+diseases I-PHE
+in O
+adult O
+and O
+paediatric O
+patients O
+. O
+
+Also O
+, O
+when O
+high O
+dose O
+chemotherapy O
+with O
+HPCT O
+support O
+it O
+is O
+appropriate O
+for O
+the O
+treatment O
+of O
+solid B-PHE
+tumours I-PHE
+in O
+adult O
+and O
+paediatric O
+patients O
+. O
+
+-DOCSTART- O
+
+
+To O
+benefit O
+vital O
+Qi O
+, O
+invigorate O
+the O
+spleen B-PHE
+and O
+nourish O
+the O
+stomach B-PHE
+. O
+
+For O
+hypofunction B-PHE
+of I-PHE
+the I-PHE
+spleen I-PHE
+and I-PHE
+stomach I-PHE
+, O
+peptic B-PHE
+ulcer I-PHE
+and O
+chronic B-PHE
+gastritis I-PHE
+. O
+
+Recently O
+, O
+also O
+used O
+for O
+the O
+cancers B-PHE
+of I-PHE
+erophagus I-PHE
+, I-PHE
+stomach I-PHE
+and I-PHE
+intestines I-PHE
+. O
+
+-DOCSTART- O
+
+
+heat B-PHE
+in O
+the O
+stomach O
+; O
+
+stomach B-PHE
+heat I-PHE
+; O
+
+stomach B-PHE
+affected O
+by O
+heat B-PHE
+impairment I-PHE
+of O
+the O
+stomach O
+by O
+pathogenic B-PHE
+heat I-PHE
+or O
+taking O
+excessive O
+heat-producing O
+food O
+, O
+marked O
+by O
+thirst B-PHE
+, O
+halitosis B-PHE
+, O
+hyperorexia B-PHE
+, O
+oliguria B-PHE
+with O
+dark B-PHE
+urine I-PHE
+, O
+constipation B-PHE
+or O
+even O
+ulceration B-PHE
+of O
+the O
+mouth O
+, O
+gingivitis B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+stop O
+pain B-PHE
+
+-DOCSTART- O
+
+
+promote O
+the O
+large B-PHE
+intestine I-PHE
+
+-DOCSTART- O
+
+
+The O
+large O
+hydrophilic O
+molecule O
+is O
+able O
+to O
+form O
+hydrogen O
+bond O
+interactions O
+with O
+the O
+terminal O
+D-alanyl-D-alanine O
+moieties O
+of O
+the O
+NAM/NAG-peptides O
+, O
+which O
+is O
+normally O
+a O
+five-point O
+interaction O
+. O
+
+-DOCSTART- O
+
+
+Eyebrow B-PHE
+Hypotrichosis I-PHE
+
+-DOCSTART- O
+
+
+clear O
+heat B-PHE
+and O
+dry O
+dampness B-PHE
+
+-DOCSTART- O
+
+
+cool O
+the O
+heart B-PHE
+
+-DOCSTART- O
+
+
+Valproic O
+Acid O
+acts O
+by O
+increasing O
+gamma-aminobutyric B-PHE
+acid I-PHE
+levels I-PHE
+in O
+the O
+brain O
+or O
+by O
+altering O
+the O
+properties O
+of O
+voltage O
+dependent O
+sodium O
+channels O
+. O
+
+Lamotrigine O
+inhibits O
+voltage-sensitive O
+sodium O
+channels O
+and/or O
+calcium O
+channels O
+, O
+thereby O
+stabilizing O
+neuronal B-PHE
+membranes I-PHE
+and O
+consequently O
+modulating O
+presynaptic O
+transmitter O
+release O
+of O
+excitatory O
+amino O
+acids O
+. O
+
+-DOCSTART- O
+
+
+To O
+resolve O
+exterior O
+, O
+eliminate O
+damp B-PHE
+, O
+relieve O
+cough B-PHE
+and O
+calm O
+asthma B-PHE
+. O
+
+-DOCSTART- O
+
+
+Locally O
+acting O
+as O
+an O
+irritant O
+for O
+skin O
+and O
+mucosa O
+; O
+orally O
+as O
+a O
+potent O
+purgative O
+. O
+
+-DOCSTART- O
+
+
+To O
+relieve O
+cough B-PHE
+and O
+dyspnea B-PHE
+, O
+and O
+eliminate O
+retained O
+phlegm B-PHE
+. O
+
+-DOCSTART- O
+
+
+Inhibitory O
+effect O
+of O
+Chunghyuldan O
+in O
+prostaglandin O
+E2 O
+and O
+nitric O
+oxide O
+biosynthesis O
+of O
+lipopolysaccharide-induced O
+RAW O
+264.7 O
+cells O
+. O
+
+-DOCSTART- O
+
+
+clear O
+the O
+lung B-PHE
+
+-DOCSTART- O
+
+
+Endocrine B-PHE
+system I-PHE
+, O
+Endocrine B-PHE
+& I-PHE
+reproductive I-PHE
+systems I-PHE
+, O
+Eldery O
+, O
+Woman O
+, O
+Menopausal B-PHE
+woman I-PHE
+
+-DOCSTART- O
+
+
+pyogenic B-PHE
+infections I-PHE
+due O
+to O
+furuncle B-PHE
+
+-DOCSTART- O
+
+
+Norepinephrine O
+functions O
+as O
+a O
+peripheral O
+vasoconstrictor O
+by O
+acting O
+on O
+alpha-adrenergic O
+receptors O
+. O
+
+It O
+is O
+also O
+an O
+inotropic O
+stimulator O
+of O
+the O
+heart B-PHE
+and O
+dilator O
+of O
+coronary B-PHE
+arteries I-PHE
+as O
+a O
+result O
+of O
+it's O
+activity O
+at O
+the O
+beta-adrenergic O
+receptors O
+. O
+
+-DOCSTART- O
+
+
+Neurocognitive B-PHE
+Function I-PHE
+. O
+
+-DOCSTART- O
+
+
+stop O
+diarrhea B-PHE
+
+-DOCSTART- O
+
+
+After O
+binding O
+to O
+HER2 O
+on O
+the O
+tumor B-PHE
+cell I-PHE
+surface O
+, O
+trastuzumab O
+induces O
+an O
+antibody-dependent B-PHE
+cell-mediated I-PHE
+cytotoxicity I-PHE
+against O
+tumor B-PHE
+cells I-PHE
+that O
+overexpress O
+HER2 B-PHE
+. O
+
+Epirubicin O
+intercalates O
+into O
+DNA O
+and O
+interacts O
+with O
+topoisomerase B-PHE
+II I-PHE
+, O
+thereby O
+inhibiting O
+DNA B-PHE
+replication I-PHE
+and O
+repair O
+and O
+RNA O
+and O
+protein B-PHE
+synthesis I-PHE
+. O
+
+-DOCSTART- O
+
+
+sudden O
+turmoil B-PHE
+; O
+
+cholera B-PHE
+disease I-PHE
+; O
+
+acute B-PHE
+gastroenteritis I-PHE
+; O
+
+acute B-PHE
+vomiting I-PHE
+and O
+diarrhea B-PHE
+a O
+group O
+of O
+diseases B-PHE
+including O
+cholera B-PHE
+, O
+characterized O
+by O
+sudden O
+and O
+drastic O
+vomiting B-PHE
+and O
+diarrhea B-PHE
+. O
+
+-DOCSTART- O
+
+
+This O
+is O
+running O
+a O
+fever B-PHE
+due O
+to O
+epidemic B-PHE
+. O
+
+-DOCSTART- O
+
+
+Mild O
+Asthma B-PHE
+
+-DOCSTART- O
+
+
+Ramipril O
+is O
+an O
+angiotensin-converting O
+enzyme O
+inhibitor O
+, O
+used O
+to O
+treat O
+high B-PHE
+blood I-PHE
+pressure I-PHE
+and O
+congestive B-PHE
+heart I-PHE
+failure I-PHE
+. O
+
+Irbesartan O
+, O
+by O
+blocking O
+the O
+binding O
+of O
+angiotensin O
+II O
+to O
+the O
+AT1 O
+receptor O
+, O
+promotes O
+vasodilation B-PHE
+and O
+decreases O
+the O
+effects B-PHE
+of I-PHE
+aldosterone I-PHE
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+wind-heat B-PHE
+type O
+common O
+cold B-PHE
+, O
+headache B-PHE
+and O
+dizziness B-PHE
+, O
+inflammation B-PHE
+of O
+the O
+eye O
+, O
+blurred B-PHE
+vision I-PHE
+. O
+
+-DOCSTART- O
+
+
+Tiotropium O
+is O
+a O
+muscarinic O
+receptor O
+antagonist O
+, O
+often O
+referred O
+to O
+as O
+an O
+antimuscarinic O
+or O
+anticholinergic O
+agent O
+. O
+
+Although O
+it O
+does O
+not O
+display O
+selectivity O
+for O
+specific O
+muscarinic O
+receptors O
+, O
+on O
+topical O
+application O
+it O
+acts O
+mainly O
+on O
+M3 O
+muscarinic O
+receptors O
+located O
+in O
+the O
+airways O
+to O
+produce O
+smooth O
+muscle B-PHE
+relaxation I-PHE
+, O
+thus O
+producing O
+a O
+bronchodilatory B-PHE
+effect I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+clear O
+heat B-PHE
+and O
+dry O
+damp B-PHE
+, O
+check O
+dysentery B-PHE
+. O
+
+-DOCSTART- O
+
+
+lumbago B-PHE
+due O
+to O
+strain B-PHE
+and O
+contusion B-PHE
+
+-DOCSTART- O
+
+
+stiffness B-PHE
+of O
+four O
+ends O
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+syndrome O
+with O
+ooze O
+from O
+a O
+sore B-PHE
+. O
+
+-DOCSTART- O
+
+
+a O
+disease O
+that O
+difficult O
+to O
+sleep O
+, O
+beating O
+fast O
+in O
+the O
+chest O
+, O
+feel O
+anxiety B-PHE
+, O
+sometimes O
+frightening B-PHE
+well O
+due O
+to O
+cold B-PHE
+of O
+gallbladder B-PHE
+meridian I-PHE
+
+-DOCSTART- O
+
+
+Airway O
+Reflexes O
+, O
+Protective O
+
+-DOCSTART- O
+
+
+the O
+symptom O
+caused O
+by O
+stagnation O
+of O
+phlegm-heat B-PHE
+
+-DOCSTART- O
+
+
+For O
+acute O
+and O
+long-term O
+management O
+of O
+signs O
+and O
+symptoms O
+of O
+osteoarthritis B-PHE
+and O
+rheumatoid B-PHE
+arthritis I-PHE
+, O
+as O
+well O
+as O
+for O
+the O
+management O
+of O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+Used O
+in O
+the O
+treatment O
+of O
+relapsing O
+forms O
+of O
+multiple B-PHE
+sclerosis I-PHE
+( O
+MS B-PHE
+) O
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+cough B-PHE
+, O
+asthma B-PHE
+and O
+distending B-PHE
+pain I-PHE
+of O
+the O
+chest O
+caused O
+by O
+cold B-PHE
+phlegm I-PHE
+, O
+arthralgia B-PHE
+accompanied O
+by O
+numbness B-PHE
+due O
+to O
+obstruction O
+of O
+collaterals O
+by O
+phlegm B-PHE
+, O
+deep O
+abscess B-PHE
+. O
+
+-DOCSTART- O
+
+
+Exposure O
+to O
+Hepatitis B-PHE
+B I-PHE
+Virus I-PHE
+
+-DOCSTART- O
+
+
+alleviate O
+edema B-PHE
+and O
+relieve O
+toxicity B-PHE
+
+-DOCSTART- O
+
+
+Proellex O
+selectively O
+blocks O
+the O
+progesterone O
+receptor O
+thus O
+avoiding O
+the O
+adverse O
+effects O
+of O
+GnRH O
+agonists O
+associated O
+with O
+the O
+induction O
+of O
+a O
+low O
+estrogen B-PHE
+, O
+menopausal-like B-PHE
+state O
+in O
+women O
+. O
+
+-DOCSTART- O
+
+
+reinforce O
+bone B-PHE
+marrow I-PHE
+
+-DOCSTART- O
+
+
+a O
+symptom O
+of O
+not B-PHE
+vomiting I-PHE
+despite O
+nausea B-PHE
+
+-DOCSTART- O
+
+
+To O
+remove O
+blood B-PHE
+stasis I-PHE
+and O
+promote O
+the O
+blood B-PHE
+flow I-PHE
+, O
+to O
+stimulate O
+menstrual B-PHE
+discharge I-PHE
+, O
+and O
+to O
+induce O
+labour O
+. O
+
+-DOCSTART- O
+
+
+a O
+disease B-PHE
+with O
+pain B-PHE
+and O
+cold B-PHE
+in O
+the O
+joints O
+
+-DOCSTART- O
+
+
+To O
+expel O
+wind B-PHE
+from O
+the O
+body O
+surface O
+, O
+clear O
+away O
+heat B-PHE
+and O
+promote O
+bowel B-PHE
+movement I-PHE
+. O
+
+-DOCSTART- O
+
+
+Diet B-PHE
+related I-PHE
+cardiovascular I-PHE
+disease I-PHE
+, O
+Overall O
+CVD B-PHE
+
+-DOCSTART- O
+
+
+To O
+dispel O
+wind B-PHE
+and O
+eliminate O
+damp B-PHE
+, O
+quicken O
+blood B-PHE
+and O
+resolve O
+toxin B-PHE
+. O
+
+-DOCSTART- O
+
+
+For O
+for O
+use O
+with O
+insulin O
+for O
+the O
+treatment O
+of O
+noninsulin-dependent O
+( O
+type O
+2 O
+) O
+diabetes B-PHE
+mellitus I-PHE
+. O
+
+-DOCSTART- O
+
+
+Endocrine B-PHE
+& I-PHE
+reproductive I-PHE
+systems I-PHE
+, O
+Eldery O
+, O
+Endocrine B-PHE
+system I-PHE
+, O
+Intelligence B-PHE
+, O
+Others O
+, O
+Memory B-PHE
+, O
+Mental B-PHE
+state I-PHE
+and I-PHE
+performance I-PHE
+
+-DOCSTART- O
+
+
+To O
+stimulate O
+digestion B-PHE
+and O
+promote O
+the O
+functional O
+activity B-PHE
+of I-PHE
+the I-PHE
+stomach I-PHE
+; O
+to O
+improve O
+the O
+normal O
+flow O
+of O
+qi O
+and O
+dissipate O
+blood B-PHE
+stasis I-PHE
+. O
+
+-DOCSTART- O
+
+
+Investigated O
+for O
+use/treatment O
+in O
+angioedema B-PHE
+. O
+
+-DOCSTART- O
+
+
+Kidney O
+Transplant O
+
+-DOCSTART- O
+
+
+pectoral B-PHE
+pain I-PHE
+with O
+stuffiness B-PHE
+; O
+chest B-PHE
+impediment I-PHE
+; O
+chest B-PHE
+blockage I-PHE
+; O
+obstruction O
+of O
+Gi O
+in O
+the O
+chest O
+( O
+1 O
+) O
+a O
+morbid B-PHE
+condition I-PHE
+due O
+to O
+stagnation B-PHE
+of B-PHE
+dampness B-PHE
+and O
+phlegm B-PHE
+, O
+marked O
+by O
+choking B-PHE
+pain I-PHE
+in O
+the O
+chest O
+, O
+sometimes O
+referring O
+to O
+the O
+back B-PHE
+, O
+usually O
+accompanied O
+by O
+shortness B-PHE
+of I-PHE
+breath I-PHE
+, O
+cough B-PHE
+. O
+( O
+
+2 O
+) O
+obstruction O
+of O
+Gi O
+in O
+the O
+stomach O
+, O
+chest B-PHE
+pain I-PHE
+that O
+occurs O
+immediately O
+after O
+eating O
+, O
+accompanied O
+by O
+difficulty B-PHE
+in I-PHE
+swallowing I-PHE
+and O
+frequent O
+vomiting B-PHE
+. O
+
+-DOCSTART- O
+
+
+phlegm B-PHE
+; O
+sputum B-PHE
+pathologic O
+mucoid O
+substances O
+collected O
+in O
+a O
+diseased O
+organ O
+or O
+tissue O
+. O
+
+-DOCSTART- O
+
+
+IMC-A12 O
+is O
+a O
+fully O
+human O
+monoclonal O
+antibody O
+that O
+specifically O
+targets O
+the O
+type O
+1 O
+human O
+insulin-like O
+growth O
+factor O
+receptor O
+( O
+IGF-IR O
+) O
+. O
+
+Tumors B-PHE
+have O
+receptors O
+for O
+the O
+insulin-like O
+growth O
+factor-1 O
+( O
+IGF-I O
+) O
+, O
+and O
+it O
+is O
+thought O
+that O
+the O
+presence O
+of O
+these O
+receptors O
+cause O
+tumors B-PHE
+to O
+grow O
+. O
+
+IMC-A12 O
+attaches O
+to O
+the O
+receptors O
+and O
+may O
+inhibit O
+the O
+growth B-PHE
+of I-PHE
+cancer I-PHE
+cells I-PHE
+. O
+
+-DOCSTART- O
+
+
+epidemic B-PHE
+smallpox I-PHE
+
+-DOCSTART- O
+
+
+scabies B-PHE
+
+-DOCSTART- O
+
+
+Urinary B-PHE
+Bladder I-PHE
+, I-PHE
+Overactive I-PHE
+
+-DOCSTART- O
+
+
+Neurological B-PHE
+systems I-PHE
+health I-PHE
+, O
+Neurological B-PHE
+systems I-PHE
+health I-PHE
+, O
+Diet O
+related O
+cardiovascular B-PHE
+disease I-PHE
+, O
+Memory B-PHE
+, O
+Neurological B-PHE
+systems I-PHE
+, O
+Hemostatic B-PHE
+function I-PHE
+, O
+Mental B-PHE
+state I-PHE
+and I-PHE
+performance I-PHE
+
+-DOCSTART- O
+
+
+cough B-PHE
+due O
+to O
+pulmonary B-PHE
+flaccidity I-PHE
+
+-DOCSTART- O
+
+
+cough B-PHE
+due O
+to O
+phlegm-damp B-PHE
+due O
+to O
+lung-heat B-PHE
+
+-DOCSTART- O
+
+
+Adult B-PHE
+Acute I-PHE
+Monocytic I-PHE
+Leukemia I-PHE
+
+-DOCSTART- O
+
+
+Proteinuria B-PHE
+
+-DOCSTART- O
+
+
+Overactive B-PHE
+Bladder I-PHE
+
+-DOCSTART- O
+
+
+chronic B-PHE
+cough I-PHE
+due O
+to O
+deficiency B-PHE
+of I-PHE
+the I-PHE
+lung I-PHE
+
+-DOCSTART- O
+
+
+Purging B-PHE
+by O
+aggression O
+
+-DOCSTART- O
+
+
+Enfuvirtide O
+binds O
+to O
+the O
+first O
+heptad-repeat B-PHE
+( O
+HR1 O
+) O
+in O
+the O
+gp41 O
+subunit O
+of O
+the O
+viral O
+envelope O
+glycoprotein O
+and O
+prevents O
+the O
+conformational B-PHE
+changes I-PHE
+required O
+for O
+the O
+fusion O
+of O
+viral O
+and O
+cellular B-PHE
+membranes I-PHE
+. O
+
+It O
+works O
+by O
+disrupting O
+the O
+HIV-1 B-PHE
+molecular I-PHE
+machinery I-PHE
+at O
+the O
+final O
+stage O
+of O
+fusion O
+with O
+the O
+target O
+cell O
+, O
+preventing O
+uninfected B-PHE
+cells I-PHE
+from O
+becoming O
+infected O
+. O
+
+Enfuvirtide O
+is O
+a O
+biomimetic O
+peptide O
+that O
+was O
+rationally O
+designed O
+to O
+mimic O
+components O
+of O
+the O
+HIV-1 B-PHE
+fusion I-PHE
+machinery O
+and O
+displace O
+them O
+, O
+preventing O
+normal O
+fusion B-PHE
+. O
+
+-DOCSTART- O
+
+
+Rituximab O
+binds O
+to O
+the O
+CD20 O
+antigen O
+on O
+B O
+lymphocytes O
+, O
+while O
+the O
+Fc O
+domain O
+recruits O
+antibodies B-PHE
+and O
+complements O
+to O
+mediate O
+cell B-PHE
+lysis I-PHE
+and O
+interferes O
+with O
+the O
+growth O
+and O
+spread O
+of O
+cancer B-PHE
+cells I-PHE
+in O
+the O
+body O
+. O
+
+-DOCSTART- O
+
+
+For O
+palliative O
+, O
+not O
+definitive O
+, O
+therapy O
+to O
+temporarily O
+maintain O
+the O
+patency B-PHE
+of I-PHE
+the I-PHE
+ductus I-PHE
+arteriosus I-PHE
+until O
+corrective O
+or O
+palliative O
+surgery O
+can O
+be O
+performed O
+in O
+neonates O
+who O
+have O
+congenital B-PHE
+heart I-PHE
+defects I-PHE
+and O
+who O
+depend O
+upon O
+the O
+patent O
+ductus O
+for O
+survival O
+. O
+
+Also O
+for O
+the O
+treatment O
+of O
+erectile B-PHE
+dysfunction I-PHE
+due O
+to O
+neurogenic O
+, O
+vasculogenic O
+, O
+psychogenic O
+, O
+or O
+mixed O
+etiology O
+. O
+
+-DOCSTART- O
+
+
+to O
+have O
+skin B-PHE
+rashes I-PHE
+due O
+to O
+epidemic B-PHE
+febrile I-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+ulcer B-PHE
+difficulty O
+to O
+heal O
+, O
+wounds B-PHE
+, O
+burns B-PHE
+and O
+scalds B-PHE
+. O
+
+-DOCSTART- O
+
+
+reinforce O
+the O
+spleen B-PHE
+
+-DOCSTART- O
+
+
+This O
+means O
+no O
+rash B-PHE
+formation O
+after O
+days O
+of O
+fever B-PHE
+. O
+
+-DOCSTART- O
+
+
+constipation B-PHE
+and O
+dry B-PHE
+stool I-PHE
+
+-DOCSTART- O
+
+
+relieve O
+spasm B-PHE
+
+-DOCSTART- O
+
+
+moisten O
+the O
+lung B-PHE
+
+-DOCSTART- O
+
+
+Hepatitis B-PHE
+C I-PHE
+, I-PHE
+Chronic I-PHE
+
+-DOCSTART- O
+
+
+convulsive B-PHE
+seizure I-PHE
+
+-DOCSTART- O
+
+
+This O
+is O
+a O
+symptom O
+with O
+stuffiness B-PHE
+and O
+hot B-PHE
+in O
+the O
+chest O
+and O
+abdomen O
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+thrist O
+in O
+febrile B-PHE
+disease I-PHE
+, O
+dry B-PHE
+cough I-PHE
+due O
+to O
+heat B-PHE
+in O
+the O
+lung O
+, O
+diabetes B-PHE
+caused O
+by O
+internal O
+heat B-PHE
+, O
+sores B-PHE
+and O
+abscess B-PHE
+. O
+
+-DOCSTART- O
+
+
+Stage O
+II O
+Childhood B-PHE
+Lymphoblastic I-PHE
+Lymphoma I-PHE
+
+-DOCSTART- O
+
+
+reinforce O
+Gi(Qi O
+) O
+and O
+blood B-PHE
+
+-DOCSTART- O
+
+
+The O
+so O
+called O
+renin-angiotensin B-PHE
+system I-PHE
+( O
+RAS B-PHE
+) O
+is O
+an O
+important O
+regulator O
+of O
+blood B-PHE
+pressure I-PHE
+and O
+has O
+already O
+been O
+successfully O
+targeted O
+by O
+three O
+major O
+classes O
+of O
+antihypertensive O
+drugs O
+: O
+by O
+ACE O
+inhibitors O
+, O
+by O
+ARBs O
+and O
+by O
+renin O
+inhibitors O
+. O
+QQQQQ O
+-DOCSTART- O
+
+
+lack O
+of O
+Gi O
+; O
+
+asthenic B-PHE
+breathing I-PHE
+a O
+morbid B-PHE
+condition I-PHE
+chiefly O
+manifested O
+as O
+disinclination B-PHE
+ta1k O
+, O
+low B-PHE
+voice I-PHE
+, O
+listlessness B-PHE
+and O
+asthenia B-PHE
+, O
+lack B-PHE
+of I-PHE
+strength I-PHE
+in O
+speaking O
+, O
+weak O
+pulse B-PHE
+
+-DOCSTART- O
+
+
+Lung B-PHE
+cancer I-PHE
+
+-DOCSTART- O
+
+
+Myocardial B-PHE
+Reperfusion I-PHE
+Injury I-PHE
+
+-DOCSTART- O
+
+
+Therapeutic O
+effect O
+of O
+Kakkonto O
+in O
+a O
+mouse O
+model O
+of O
+food B-PHE
+allergy I-PHE
+with O
+gastrointestinal O
+symptoms O
+. O
+
+-DOCSTART- O
+
+
+Heroin O
+is O
+a O
+mu-opioid O
+agonist O
+. O
+
+It O
+acts O
+on O
+endogenous O
+mu-opioid O
+receptors O
+that O
+are O
+spread O
+in O
+discrete O
+packets O
+throughout O
+the O
+brain O
+, O
+spinal O
+cord O
+and O
+gut O
+in O
+almost O
+all O
+mammals O
+. O
+
+Heroin O
+, O
+along O
+with O
+other O
+opioids B-PHE
+, O
+are O
+agonists O
+to O
+four O
+endogenous B-PHE
+neurotransmitters I-PHE
+. O
+
+They O
+are O
+beta-endorphin B-PHE
+, O
+dynorphin B-PHE
+, O
+leu-enkephalin B-PHE
+, O
+and O
+met-enkephalin B-PHE
+. O
+
+The O
+body O
+responds O
+to O
+heroin O
+in O
+the O
+brain O
+by O
+reducing O
+( O
+and O
+sometimes O
+stopping O
+) O
+production B-PHE
+of I-PHE
+the I-PHE
+endogenous I-PHE
+opioids I-PHE
+when O
+heroin O
+is O
+present O
+. O
+
+Endorphins B-PHE
+are O
+regularly O
+released O
+in O
+the O
+brain B-PHE
+and O
+nerves B-PHE
+, O
+attenuating O
+pain B-PHE
+. O
+
+Their O
+other O
+functions O
+are O
+still O
+obscure O
+, O
+but O
+are O
+probably O
+related O
+to O
+the O
+effects O
+produced O
+by O
+heroin O
+besides O
+analgesia B-PHE
+( O
+antitussin O
+, O
+anti-diarrheal O
+) O
+. O
+
+-DOCSTART- O
+
+
+Liver B-PHE
+health I-PHE
+, O
+Liver B-PHE
+
+-DOCSTART- O
+
+
+the O
+ulcerated B-PHE
+mouth I-PHE
+turns O
+to O
+the O
+aphtha B-PHE
+
+-DOCSTART- O
+
+
+Stage O
+III O
+Adult B-PHE
+T-Cell I-PHE
+Leukemia/Lymphoma I-PHE
+
+-DOCSTART- O
+
+
+recurrent B-PHE
+fever I-PHE
+by O
+the O
+exhaustion B-PHE
+after O
+healing O
+from O
+pyogenic B-PHE
+febrile I-PHE
+disease I-PHE
+. O
+
+-DOCSTART- O
+
+
+Used O
+mainly O
+in O
+female B-PHE
+infertility I-PHE
+due O
+to O
+anovulation B-PHE
+( O
+e.g O
+. O
+due O
+to O
+polycystic B-PHE
+ovary I-PHE
+syndrome I-PHE
+) O
+to O
+induce O
+ovulation B-PHE
+. O
+
+-DOCSTART- O
+
+
+lingual B-PHE
+pustule I-PHE
+; O
+boil B-PHE
+of O
+the O
+tongue O
+
+-DOCSTART- O
+
+
+harmonize O
+blood B-PHE
+
+-DOCSTART- O
+
+
+refers O
+to O
+the O
+heavy B-PHE
+coughing I-PHE
+and O
+shortness B-PHE
+of I-PHE
+breath I-PHE
+due O
+to O
+the O
+heat B-PHE
+In I-PHE
+the I-PHE
+lung I-PHE
+
+-DOCSTART- O
+
+
+destroy O
+intestinal B-PHE
+parasites I-PHE
+
+-DOCSTART- O
+
+
+dissipate O
+blood B-PHE
+
+-DOCSTART- O
+
+
+Breast B-PHE
+Pain I-PHE
+
+-DOCSTART- O
+
+
+Abscess B-PHE
+
+-DOCSTART- O
+
+
+Gastric B-PHE
+Varices I-PHE
+
+-DOCSTART- O
+
+
+Carpal B-PHE
+Tunnel I-PHE
+Syndrome I-PHE
+
+-DOCSTART- O
+
+
+malignant B-PHE
+furuncle I-PHE
+due O
+to O
+scrofula B-PHE
+. O
+
+-DOCSTART- O
+
+
+relieve O
+fever B-PHE
+
+-DOCSTART- O
+
+
+hemoptysis B-PHE
+; O
+coughing B-PHE
+up I-PHE
+blood I-PHE
+
+-DOCSTART- O
+
+
+Treament O
+of O
+arthritis B-PHE
+with O
+ankylosis B-PHE
+, O
+aching B-PHE
+and I-PHE
+heaviness I-PHE
+sensation I-PHE
+of O
+the O
+loins O
+and O
+knees O
+, O
+systremma B-PHE
+due O
+to O
+vomiting B-PHE
+and O
+diarrhea B-PHE
+, O
+edema B-PHE
+and O
+weakness B-PHE
+of I-PHE
+the I-PHE
+legs I-PHE
+. O
+
+-DOCSTART- O
+
+
+absorption B-PHE
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+motility O
+
+-DOCSTART- O
+
+
+To O
+eliminate O
+blood B-PHE
+stasis I-PHE
+, O
+arrest O
+bleeding B-PHE
+, O
+cause O
+subsidence O
+of O
+swelling B-PHE
+and O
+alleviate O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+clear O
+the O
+heart B-PHE
+and O
+relieve O
+vexation B-PHE
+
+-DOCSTART- O
+
+
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+Physical B-PHE
+performance B-PHE
+and O
+fitness B-PHE
+, O
+absorption B-PHE
+, O
+Lipid O
+profile O
+, O
+Diet B-PHE
+related I-PHE
+cardiovascular I-PHE
+disease I-PHE
+, O
+Strength B-PHE
+and O
+power B-PHE
+, O
+Others O
+, O
+motility B-PHE
+
+-DOCSTART- O
+
+
+S B-PHE
+. I-PHE
+Aureus I-PHE
+Bacteremia I-PHE
+
+-DOCSTART- O
+
+
+damp-warm B-PHE
+disease I-PHE
+febrile B-PHE
+disease I-PHE
+often O
+occurring O
+around O
+mid-summer O
+, O
+July O
+, O
+caused O
+by O
+damp-heat B-PHE
+pathogene I-PHE
+, O
+which O
+mainly O
+involves O
+the O
+gastro-intestinal B-PHE
+tract I-PHE
+often O
+in O
+a O
+protracted O
+course O
+. O
+
+It O
+may O
+sometimes O
+be O
+seen O
+in O
+diseases O
+such O
+as O
+typhoid B-PHE
+fever I-PHE
+. O
+
+-DOCSTART- O
+
+
+Exciting O
+the O
+intestinal B-PHE
+smooth I-PHE
+muscles I-PHE
+in O
+vivo O
+or O
+in O
+vitro O
+, O
+and O
+relaxing O
+the O
+uterus B-PHE
+of O
+guinea-pigs O
+in O
+vitro O
+. O
+
+-DOCSTART- O
+
+
+To O
+supplement O
+kidney B-PHE
+and O
+boost O
+essence O
+, O
+warm O
+lung B-PHE
+and O
+settle O
+asthma B-PHE
+, O
+moisten O
+intestines B-PHE
+and O
+free O
+stool B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+promote O
+blood B-PHE
+circulation I-PHE
+to O
+remove O
+blood B-PHE
+stasis I-PHE
+, O
+soothe O
+the O
+liver B-PHE
+and O
+remove O
+the O
+obstruction B-PHE
+in O
+the O
+channels O
+. O
+
+-DOCSTART- O
+
+
+Protective B-PHE
+immunity I-PHE
+, O
+Others O
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Others O
+health B-PHE
+and O
+immunity B-PHE
+, O
+Metabolism B-PHE
+
+-DOCSTART- O
+
+
+Hepatitis B-PHE
+B I-PHE
+Virus I-PHE
+
+-DOCSTART- O
+
+
+1 O
+nocturnal O
+enuresis O
+; O
+bed-wetting O
+2 O
+incontinence O
+of O
+urine O
+
+-DOCSTART- O
+
+
+Deficiency B-PHE
+of O
+both O
+qi O
+and O
+blood B-PHE
+marked O
+by O
+pallor B-PHE
+, O
+shortness B-PHE
+of I-PHE
+breath I-PHE
+, O
+cardiac B-PHE
+palpitation I-PHE
+, O
+dizziness B-PHE
+, O
+spontaneous B-PHE
+sweating I-PHE
+, O
+lassitude B-PHE
+and O
+cold B-PHE
+extremities I-PHE
+, O
+or O
+excessive O
+menstrual B-PHE
+discharge I-PHE
+. O
+
+-DOCSTART- O
+
+
+Solid B-PHE
+Tumors I-PHE
+
+-DOCSTART- O
+
+
+asthma B-PHE
+and O
+cough B-PHE
+
+-DOCSTART- O
+
+
+This O
+means O
+urolithiasis B-PHE
+made O
+of O
+coagulation B-PHE
+of I-PHE
+phlegm I-PHE
+. O
+
+-DOCSTART- O
+
+
+Erlotinib O
+inhibits O
+the O
+intracellular B-PHE
+phosphorylation I-PHE
+of I-PHE
+tyrosine I-PHE
+kinase I-PHE
+associated O
+with O
+the O
+epidermal O
+growth O
+factor O
+receptor O
+( O
+EGFR O
+) O
+which O
+is O
+expressed O
+on O
+the O
+cell O
+surface O
+of O
+normal O
+cells B-PHE
+and O
+cancer B-PHE
+cells I-PHE
+. O
+
+-DOCSTART- O
+
+
+metrorrhagia B-PHE
+
+-DOCSTART- O
+
+
+1 O
+Applicable O
+to O
+edema B-PHE
+of I-PHE
+wind I-PHE
+type O
+attributive O
+to O
+attack O
+of O
+dampness B-PHE
+and O
+heat B-PHE
+, O
+which O
+is O
+manifested O
+as O
+general O
+edema B-PHE
+beginning O
+from O
+the O
+eyelids O
+, O
+dyuria B-PHE
+, O
+fever B-PHE
+, O
+chilliness B-PHE
+, O
+white B-PHE
+and I-PHE
+greasy I-PHE
+fur I-PHE
+on O
+the O
+tongue O
+and O
+slow B-PHE
+pulse I-PHE
+. O
+2 O
+Also O
+applicable O
+to O
+urinar B-PHE
+
+-DOCSTART- O
+
+
+headache B-PHE
+due O
+to O
+cold B-PHE
+affection O
+
+-DOCSTART- O
+
+
+This O
+is O
+damp-arthritis B-PHE
+caused O
+by O
+apoplectoid B-PHE
+syndrome I-PHE
+. O
+
+-DOCSTART- O
+
+
+insulin B-PHE
+sensitivity I-PHE
+and O
+diabetes B-PHE
+risk I-PHE
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Digestion B-PHE
+, O
+absorption B-PHE
+, O
+Lipid O
+profile O
+, O
+Improvement O
+of O
+blood B-PHE
+glucose I-PHE
+levels I-PHE
+, O
+Body B-PHE
+weight I-PHE
+regulation I-PHE
+, O
+Diet B-PHE
+related I-PHE
+cardiovascular I-PHE
+disease I-PHE
+, O
+motility B-PHE
+, O
+Evacuation B-PHE
+
+-DOCSTART- O
+
+
+tinea B-PHE
+favosa I-PHE
+; O
+mouth-corner B-PHE
+ulcer I-PHE
+
+-DOCSTART- O
+
+
+Chlorambucil O
+alkylates O
+and O
+cross-links O
+DNA O
+during O
+all O
+phases O
+of O
+the O
+cell O
+cycle O
+, O
+resulting O
+in O
+disruption B-PHE
+of I-PHE
+DNA I-PHE
+function I-PHE
+, O
+cell B-PHE
+cycle I-PHE
+arrest I-PHE
+, O
+and O
+apoptosis O
+. O
+
+-DOCSTART- O
+
+
+infantile B-PHE
+convulsion I-PHE
+; O
+child O
+fright O
+epilepsy B-PHE
+
+-DOCSTART- O
+
+
+sore B-PHE
+throat I-PHE
+; O
+swollen B-PHE
+and I-PHE
+pailful I-PHE
+throat I-PHE
+
+-DOCSTART- O
+
+
+replenish O
+Gi O
+( O
+Qi O
+) O
+and O
+invigorate O
+the O
+spleen B-PHE
+
+-DOCSTART- O
+
+
+brighten O
+the O
+eyes B-PHE
+
+-DOCSTART- O
+
+
+A O
+symptom O
+that O
+Gi O
+gets O
+together O
+and O
+blood B-PHE
+does O
+not O
+circulate O
+well O
+. O
+
+An O
+affected O
+part O
+has O
+abdominal B-PHE
+distension I-PHE
+or O
+a O
+sore B-PHE
+. O
+
+If O
+it O
+keeps O
+long O
+, O
+it O
+becomes O
+blood B-PHE
+stagnation I-PHE
+, O
+and O
+causes O
+a O
+hard B-PHE
+swelling I-PHE
+and O
+a O
+serious B-PHE
+pain I-PHE
+on O
+the O
+part O
+. O
+
+-DOCSTART- O
+
+
+all O
+kinds O
+of O
+disease O
+due O
+to O
+wind B-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+deficient O
+yin O
+of O
+the O
+liver O
+and O
+kidneys O
+and O
+hyperactivity O
+of O
+liver O
+yang O
+manifested O
+as O
+distension B-PHE
+and I-PHE
+pain B-PHE
+in I-PHE
+the I-PHE
+head I-PHE
+and I-PHE
+eyes I-PHE
+, O
+dizziness B-PHE
+and O
+vertigo B-PHE
+. O
+
+Red O
+ochre O
+( O
+Daizheshi O
+) O
+is O
+used O
+with O
+Dragon's O
+bone O
+( O
+Longgu O
+) O
+, O
+Oyster O
+shell O
+( O
+Muli O
+) O
+, O
+White O
+peony O
+root O
+( O
+Bais O
+
+-DOCSTART- O
+
+
+Promoting O
+bile B-PHE
+secretion I-PHE
+. O
+
+-DOCSTART- O
+
+
+SR O
+58611 O
+has O
+positive B-PHE
+chronotropic I-PHE
+effect I-PHE
+which O
+is O
+mainly O
+of O
+peripheral O
+origin O
+and O
+can O
+be O
+attributed O
+to O
+a O
+baroreceptor-mediated B-PHE
+reflex I-PHE
+due O
+to O
+the O
+beta3-adrenoceptor B-PHE
+mediated I-PHE
+vasodilation I-PHE
+with O
+an O
+increase O
+in O
+sympathetic B-PHE
+tone I-PHE
+and O
+a O
+reduction B-PHE
+in I-PHE
+vagal I-PHE
+tone I-PHE
+to I-PHE
+the O
+heart O
+. O
+
+-DOCSTART- O
+
+
+Diet B-PHE
+related I-PHE
+cardiovascular I-PHE
+disease I-PHE
+, O
+Blood B-PHE
+pressure I-PHE
+
+-DOCSTART- O
+
+
+abdominal B-PHE
+distension I-PHE
+; O
+distension B-PHE
+of I-PHE
+abdomen I-PHE
+with O
+a O
+gas O
+or O
+fluid O
+
+-DOCSTART- O
+
+
+shortness B-PHE
+of I-PHE
+breath I-PHE
+short O
+, O
+rapid B-PHE
+and I-PHE
+interrupted I-PHE
+breathing I-PHE
+, O
+and O
+anguish B-PHE
+with O
+chest B-PHE
+congestion I-PHE
+
+-DOCSTART- O
+
+
+For O
+the O
+treatment O
+of O
+chronic B-PHE
+gouty I-PHE
+arthritis I-PHE
+when O
+complicated O
+by O
+frequent O
+, O
+recurrent O
+acute O
+attacks O
+of O
+gout B-PHE
+. O
+
+-DOCSTART- O
+
+
+For O
+malaria B-PHE
+, O
+applying O
+crushed O
+product O
+on O
+Neiguan O
+( O
+P.6 O
+) O
+and O
+Dazhui O
+( O
+Du' O
+14 O
+) O
+2 O
+hours O
+before O
+the O
+episode O
+; O
+alos O
+used O
+for O
+dyspnea B-PHE
+due O
+to O
+the O
+retention B-PHE
+of I-PHE
+phlegm I-PHE
+. O
+
+-DOCSTART- O
+
+
+Woman O
+, O
+Mood O
+, O
+Menopausal B-PHE
+woman I-PHE
+, O
+Dermatological B-PHE
+systems I-PHE
+health I-PHE
+, O
+General O
+woman O
+, O
+General O
+skin B-PHE
+health I-PHE
+, O
+Others O
+, O
+Mental B-PHE
+state I-PHE
+and O
+performance O
+
+-DOCSTART- O
+
+
+calm O
+the O
+fetus O
+
+-DOCSTART- O
+
+
+To O
+relieve O
+dyspnea B-PHE
+and O
+cough B-PHE
+by O
+eliminating O
+cold-phlegm B-PHE
+, O
+to O
+reduce O
+modulation O
+, O
+and O
+to O
+relieve O
+pain B-PHE
+by O
+removing O
+the O
+obstruction O
+of O
+collateral O
+. O
+
+-DOCSTART- O
+
+
+To O
+dispel O
+cold B-PHE
+, O
+eliminate O
+damp B-PHE
+and O
+phlegm B-PHE
+, O
+and O
+to O
+arrest O
+emesis B-PHE
+or O
+nausea B-PHE
+. O
+
+-DOCSTART- O
+
+
+epilepsy B-PHE
+induced O
+by O
+frightening B-PHE
+and O
+mania-withdrawal B-PHE
+
+-DOCSTART- O
+
+
+join O
+cutting B-PHE
+wound I-PHE
+
+-DOCSTART- O
+
+
+To O
+dispel O
+wind B-PHE
+and O
+relieve O
+pain B-PHE
+, O
+soothe O
+sinews B-PHE
+and O
+quicken O
+network O
+vessels B-PHE
+. O
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+epistaxis B-PHE
+, O
+spitting B-PHE
+of I-PHE
+blood I-PHE
+, O
+hematuria B-PHE
+, O
+hematochezia B-PHE
+, O
+abnormal B-PHE
+uterine I-PHE
+bleeding I-PHE
+, O
+traumatic B-PHE
+bleeding I-PHE
+, O
+carbuncles B-PHE
+and O
+sores B-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+remove O
+heat O
+from O
+the O
+lung B-PHE
+, O
+and O
+to O
+relieve O
+cough B-PHE
+and O
+dyspnea B-PHE
+. O
+
+-DOCSTART- O
+
+
+exhaustion B-PHE
+syndrome I-PHE
+; O
+
+consumption B-PHE
+; O
+
+exhaustion B-PHE
+of I-PHE
+strength I-PHE
+; O
+
+overstrain B-PHE
+; O
+
+asthenic B-PHE
+disease I-PHE
+; O
+
+weakness B-PHE
+and O
+fatigue B-PHE
+
+-DOCSTART- O
+
+
+free O
+the O
+kidney B-PHE
+and O
+water O
+
+-DOCSTART- O
+
+
+Endocrine B-PHE
+& I-PHE
+reproductive I-PHE
+systems I-PHE
+, O
+Gut B-PHE
+health I-PHE
+and O
+immunity B-PHE
+, O
+Reproductive B-PHE
+systems I-PHE
+, O
+Urinary B-PHE
+system I-PHE
+health I-PHE
+, O
+Urinary B-PHE
+systems I-PHE
+, O
+Inflammation B-PHE
+, O
+Others O
+
+-DOCSTART- O
+
+
+postpartum B-PHE
+anemic I-PHE
+faintness I-PHE
+; O
+faint B-PHE
+after O
+childbirth O
+
+-DOCSTART- O
+
+
+cosolidate O
+the O
+kidney B-PHE
+
+-DOCSTART- O
+
+
+eczema B-PHE
+
+-DOCSTART- O
+
+
+Kidney B-PHE
+Cancer I-PHE
+
+-DOCSTART- O
+
+
+Dimethindene O
+is O
+also O
+indicated O
+for O
+pruritus B-PHE
+in O
+eruptive B-PHE
+skin I-PHE
+diseases I-PHE
+such O
+as O
+chicken-pox B-PHE
+. O
+
+-DOCSTART- O
+
+
+The O
+hormones O
+, O
+T O
+4 O
+and O
+T O
+3, O
+are O
+tyrosine-based O
+hormones O
+produced O
+by O
+the O
+thyroid O
+gland O
+. O
+
+Iodine O
+is O
+an O
+important O
+component O
+in O
+their O
+synthesis O
+. O
+
+The O
+major O
+secreted O
+form O
+of O
+thyroid O
+hormone O
+is O
+T4 O
+. O
+
+T4 O
+is O
+converted O
+T3 O
+, O
+the O
+more O
+active O
+thyroid O
+hormone O
+, O
+by O
+deiodinases O
+in O
+peripheral O
+tissues O
+. O
+
+T3 O
+acts O
+in O
+the O
+body O
+to O
+increase O
+basal B-PHE
+metabolic I-PHE
+rate I-PHE
+, O
+alter O
+protein B-PHE
+synthesis I-PHE
+and O
+increase O
+the O
+body's B-PHE
+sensitivity I-PHE
+to O
+catecholamines O
+( O
+such O
+as O
+adrenaline O
+) O
+. O
+
+Thyroid O
+hormones O
+are O
+essential O
+for O
+proper O
+development O
+and O
+differentiation O
+of O
+all O
+cells O
+of O
+the O
+human O
+body O
+. O
+
+T O
+4 O
+and O
+T O
+3 O
+regulate O
+protein O
+, O
+fat O
+and O
+carbohydrate O
+metabolism O
+to O
+varying O
+extents O
+. O
+
+The O
+most O
+pronounced O
+effect O
+of O
+the O
+hormones O
+is O
+in O
+altering O
+how O
+human O
+cells O
+use O
+energetic O
+compounds O
+. O
+
+The O
+thyroid O
+hormone O
+derivatives O
+bind O
+to O
+the O
+thyroid O
+hormone O
+receptors O
+initially O
+to O
+initiate O
+their O
+downstream B-PHE
+effects I-PHE
+. O
+
+-DOCSTART- O
+
+
+N(omega)-Nitro-L-arginine O
+methyl O
+ester O
+( O
+L-NAME O
+) O
+induces O
+a O
+pre-eclampsia-like B-PHE
+syndrome I-PHE
+in O
+pregnant O
+rats O
+. O
+
+We O
+have O
+previously O
+reported O
+the O
+anti-hypertensive B-PHE
+effects I-PHE
+of O
+several O
+Japanese O
+traditional O
+( O
+Kampo O
+) O
+medicines O
+in O
+this O
+model O
+, O
+and O
+one O
+of O
+these O
+, O
+Tokishakuyakusan O
+( O
+TS O
+) O
+, O
+also O
+improved O
+intrauterine B-PHE
+growth I-PHE
+retardation I-PHE
+( O
+IUGR O
+) O
+. O
+
+In O
+the O
+present O
+study O
+, O
+we O
+characterized O
+the O
+effect O
+of O
+TS O
+on O
+IUGR O
+. O
+
+TS O
+administration O
+reversed O
+the O
+decrease O
+in O
+fetal O
+body B-PHE
+weight I-PHE
+and O
+fetal O
+blood B-PHE
+glucose I-PHE
+concentration I-PHE
+induced O
+by O
+the O
+infusion O
+of O
+L-NAME O
+. O
+
+Growth O
+hormone O
+( O
+GH O
+) O
+levels O
+in O
+the O
+fetal O
+blood B-PHE
+, O
+which O
+were O
+decreased O
+by O
+L-NAME O
+infusion O
+, O
+were O
+also O
+significantly O
+elevated O
+by O
+TS O
+; O
+
+however O
+, O
+levels O
+of O
+GH O
+releasing O
+hormone O
+( O
+GHRH O
+) O
+and O
+insulin-like O
+growth O
+factor O
+I O
+( O
+IGF-I O
+) O
+were O
+unchanged O
+and O
+only O
+slightly O
+changed O
+, O
+respectively O
+. O
+
+Treatment O
+with O
+L-NAME O
+with O
+or O
+without O
+TS O
+had O
+no O
+apparent O
+effect O
+on O
+GH O
+, O
+GHRH O
+, O
+and O
+IGF-I O
+levels O
+of O
+dams O
+. O
+
+In O
+an O
+immunocytochemical O
+study O
+, O
+the O
+number O
+of O
+GH-positive O
+cells O
+in O
+the O
+fetal O
+pituitary O
+gland O
+was O
+significantly O
+increased O
+in O
+TS-treated O
+rats O
+. O
+
+These O
+data O
+suggest O
+that O
+enhanced O
+proliferation O
+of O
+somatotrope O
+cells O
+of O
+the O
+pituitary O
+gland O
+and O
+the O
+resultant O
+increase O
+in O
+GH O
+secretion O
+in O
+the O
+fetus O
+may O
+be O
+involved O
+in O
+the O
+improvement O
+of O
+IUGR O
+by O
+TS O
+. O
+
+-DOCSTART- O
+
+
+External O
+use O
+for O
+vitiligo B-PHE
+and O
+alpecia B-PHE
+areata I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+replenish O
+the O
+liver B-PHE
+and O
+the O
+kidney B-PHE
+, O
+and O
+to O
+arrest O
+bleeding B-PHE
+by O
+removing O
+heat B-PHE
+from I-PHE
+blood I-PHE
+. O
+
+-DOCSTART- O
+
+
+Infertility B-PHE
+
+-DOCSTART- O
+
+
+Hyperuricemia B-PHE
+
+-DOCSTART- O
+
+
+Traumatic B-PHE
+injury I-PHE
+with O
+ecchymosis B-PHE
+, O
+swelling B-PHE
+and O
+pain B-PHE
+. O
+
+-DOCSTART- O
+
+
+thirst B-PHE
+with O
+fever B-PHE
+
+-DOCSTART- O
+
+
+invigorate O
+the O
+spleen B-PHE
+and O
+disperse O
+food O
+
+-DOCSTART- O
+
+
+deficiency B-PHE
+syndrome I-PHE
+after O
+delivery O
+
+-DOCSTART- O
+
+
+Prednisone O
+enters O
+the O
+nucleus O
+where O
+it O
+binds O
+to O
+and O
+activates O
+specific O
+nuclear O
+receptors O
+, O
+resulting O
+in O
+an O
+altered O
+gene B-PHE
+expression I-PHE
+and O
+inhibition O
+of O
+proinflammatory B-PHE
+cytokine I-PHE
+production I-PHE
+. O
+
+-DOCSTART- O
+
+
+To O
+replenish O
+blood B-PHE
+, O
+activate O
+circulation B-PHE
+and O
+regulate O
+menstruation B-PHE
+. O
+
+-DOCSTART- O
+
+
+pain B-PHE
+and I-PHE
+swelling I-PHE
+of I-PHE
+testis I-PHE
+
+-DOCSTART- O
+
+
+Nephrolithiasis B-PHE
+
+-DOCSTART- O
+
+
+Treatment O
+of O
+consumptive B-PHE
+diseases I-PHE
+, O
+impotence B-PHE
+, O
+cold B-PHE
+sperm I-PHE
+, O
+lassitude B-PHE
+in O
+the O
+loins O
+and O
+legs O
+due O
+to O
+deficiency O
+of O
+the O
+kidney-yang O
+, O
+etc O
+. O
+
+-DOCSTART- O
+
+
+Used O
+in O
+the O
+treatment O
+of O
+rheumatoid B-PHE
+arthritis I-PHE
+. O
+
+-DOCSTART- O
+
+
+breast B-PHE
+abscess I-PHE
+; O
+abscess B-PHE
+of I-PHE
+breast I-PHE
+; O
+acute B-PHE
+mastitis I-PHE
+
+-DOCSTART- O
+
+
+three O
+Eum O
+syndrome O
+of O
+cold O
+attack O
+
+-DOCSTART- O
+
+
+1 O
+Its O
+decoction O
+acts O
+as O
+an O
+antitussive O
+and O
+expectorant O
+in O
+mice O
+. O
+
+2 O
+Inhibiting O
+the O
+growth B-PHE
+of I-PHE
+pneumococcus B-PHE
+and O
+beta-streptococcus B-PHE
+in O
+vitro O
+. O
+
+-DOCSTART- O
+
+
